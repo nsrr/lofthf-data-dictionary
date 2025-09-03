@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_bmi",
+  "display_name": "Anthro: Participant's current BMI",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms per meter squared (kg/m2)",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

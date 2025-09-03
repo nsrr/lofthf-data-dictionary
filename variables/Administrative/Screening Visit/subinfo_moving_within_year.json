@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_moving_within_year",
+  "display_name": "Subinfo: Participant plans on moving out of the area within the year",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

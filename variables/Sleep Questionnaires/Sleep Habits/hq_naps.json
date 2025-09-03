@@ -1,0 +1,11 @@
+{
+  "id": "hq_naps",
+  "display_name": "HQ: Weekly nap frequency 20 minutes or more",
+  "description": "",
+  "type": "integer",
+  "units": "counts",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "nap"
+  ]
+}

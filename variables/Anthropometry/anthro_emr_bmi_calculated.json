@@ -1,0 +1,11 @@
+{
+  "id": "anthro_emr_bmi_calculated",
+  "display_name": "Anthro: BMI calculated from EMR height and weight",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms per meter squared (kg/m2)",
+  "calculation": "anthro_emr_weight / ((anthro_emr_height/100)**2)",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_pain_leg_butt_still_standing",
+  "display_name": "HQ: Pain leg or buttock begin standing or sitting",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

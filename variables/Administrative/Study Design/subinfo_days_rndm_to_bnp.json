@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_days_rndm_to_bnp",
+  "display_name": "Subinfo: Days from Randomization to BNP",
+  "description": "",
+  "type": "integer",
+  "units": "days from index date"
+}

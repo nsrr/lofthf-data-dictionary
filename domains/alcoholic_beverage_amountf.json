@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "0",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2-Jan",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "5-Mar",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "9-Jun",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "15-Oct",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "15 or more",
+    "description": ""
+  }
+]

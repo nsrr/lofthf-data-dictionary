@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_epilepsy",
+  "display_name": "HQ: Epilepsy (Seizure Disorder)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

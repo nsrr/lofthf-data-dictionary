@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_high_bp_meds",
+  "display_name": "HQ: Taking medicine for high blood pressure",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

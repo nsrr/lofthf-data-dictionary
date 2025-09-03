@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_days_rndm_to_creatinine",
+  "display_name": "Subinfo: Days from Randomization to Creatinine",
+  "description": "",
+  "type": "integer",
+  "units": "days from index date"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_dem_education",
+  "display_name": "HQ: Highest level of education",
+  "description": "",
+  "type": "choices",
+  "domain": "educationf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

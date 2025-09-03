@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_diabetes_no_meds",
+  "display_name": "HQ: Other actions to help treat diabetes",
+  "description": "",
+  "type": "choices",
+  "domain": "diabetes_no_medsf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

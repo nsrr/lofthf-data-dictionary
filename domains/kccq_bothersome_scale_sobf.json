@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Extremely bothersome",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Quite a bit bothersome",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Moderately bothersome",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Slightly bothersome",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Not at all bothersome",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "I've had no shortness of breath",
+    "description": ""
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "hq_dem_employment_status",
+  "display_name": "HQ: Current employment status",
+  "description": "",
+  "type": "choices",
+  "domain": "employmentf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

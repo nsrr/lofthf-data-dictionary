@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_lvef_type_of_exam",
+  "display_name": "Subinfo: Type of exam left ventricular ejection fraction was obtained from",
+  "description": "",
+  "type": "choices",
+  "domain": "lvef_exam_typef"
+}

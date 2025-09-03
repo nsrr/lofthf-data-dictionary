@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_fev1_lt_50",
+  "display_name": "Subinfo: Participant has significant COPD with Forced Expiratory Volume within one second (FEV1) < 50% (European Respiratory Society criteria) within the previous 4 weeks",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnonaf"
+}

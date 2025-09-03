@@ -1,0 +1,10 @@
+{
+  "id": "hq_sweats_or_hot_flashes",
+  "display_name": "HQ: Sweats or hot flashes",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_alwaysf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

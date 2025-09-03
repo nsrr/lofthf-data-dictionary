@@ -1,0 +1,9 @@
+{
+  "id": "anthro_bp_pe_cardio_abnormal",
+  "display_name": "Anthro: Reason cardiovascular is abnormal",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

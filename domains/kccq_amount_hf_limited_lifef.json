@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "It has extremely limited my enjoyment of life",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "It has limited my enjoyment of life quite a bit",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "It has moderately limited my enjoyment of life",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "It has slightly limited my enjoyment of life",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "It has not limited my enjoyment of life at all",
+    "description": ""
+  }
+]

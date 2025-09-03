@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_time",
+  "display_name": "Anthro: Time of current measurements",
+  "description": "",
+  "type": "time",
+  "units": "H:mm:ss",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

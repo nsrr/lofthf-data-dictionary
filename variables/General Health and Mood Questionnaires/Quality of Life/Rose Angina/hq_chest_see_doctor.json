@@ -1,0 +1,10 @@
+{
+  "id": "hq_chest_see_doctor",
+  "display_name": "HQ: See a doctor because of this pain (or discomfort)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

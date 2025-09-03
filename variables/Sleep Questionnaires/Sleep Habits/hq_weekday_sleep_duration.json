@@ -1,0 +1,11 @@
+{
+  "id": "hq_weekday_sleep_duration",
+  "display_name": "HQ: Typical weekday sleep duration",
+  "description": "Computed as difference between self-reported clock times",
+  "type": "numeric",
+  "units": "hours (hr)",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "sleep_duration"
+  ]
+}

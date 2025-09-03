@@ -1,0 +1,10 @@
+{
+  "id": "hq_years_treated_for_hf",
+  "display_name": "HQ: Number of years treated for heart failure",
+  "description": "",
+  "type": "choices",
+  "domain": "hf_yearsf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

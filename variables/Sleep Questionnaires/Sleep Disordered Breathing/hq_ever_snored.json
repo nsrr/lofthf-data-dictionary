@@ -1,0 +1,11 @@
+{
+  "id": "hq_ever_snored",
+  "display_name": "HQ: History of snoring",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "snore"
+  ]
+}

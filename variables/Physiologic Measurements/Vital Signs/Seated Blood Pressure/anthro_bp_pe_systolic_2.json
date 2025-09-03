@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_systolic_2",
+  "display_name": "Anthro: Systolic Blood Pressure - Measurement 2",
+  "description": "",
+  "type": "integer",
+  "units": "millimeters of mercury (mmHg)",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

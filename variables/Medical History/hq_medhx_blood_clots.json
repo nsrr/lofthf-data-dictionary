@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_blood_clots",
+  "display_name": "HQ: Blood clots in the lung or in the leg veins",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

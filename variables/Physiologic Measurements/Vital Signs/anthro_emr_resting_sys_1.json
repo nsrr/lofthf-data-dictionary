@@ -1,0 +1,10 @@
+{
+  "id": "anthro_emr_resting_sys_1",
+  "display_name": "Anthro: Systolic Blood Pressure - Measurement 1",
+  "description": "Due to the study protocol changes during the pandemic, anthropometric data was extracted from the electronic medical record as a proxy for :anthro_bp_pe_systolic_1:. for those participants who were not able to attend the clinic visit.",
+  "type": "integer",
+  "units": "millimeters of mercury (mmHg)",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

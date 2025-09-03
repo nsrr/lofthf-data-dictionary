@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_oxygen_saturation",
+  "display_name": "Anthro: Oxygen Saturation Level",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

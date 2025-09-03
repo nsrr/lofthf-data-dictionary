@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_other_liver_disease",
+  "display_name": "HQ: Other Liver Disease",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_chest_ground_level",
+  "display_name": "HQ: Chest discomfort/pressure when walk ordinary pace on ground level",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

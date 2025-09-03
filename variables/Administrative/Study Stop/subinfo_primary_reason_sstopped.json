@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_primary_reason_sstopped",
+  "display_name": "Subinfo: Primary reason participation stopped",
+  "description": "",
+  "type": "choices",
+  "domain": "primary_reason_stoppedf"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_smoked_cigarette_last_month",
+  "display_name": "HQ: At least 1 cigarette per day (last month)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

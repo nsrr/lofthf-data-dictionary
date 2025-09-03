@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_life_expectancy",
+  "display_name": "Subinfo: Participant's life expectancy < 1 year for diseases unrelated to chronic HF",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

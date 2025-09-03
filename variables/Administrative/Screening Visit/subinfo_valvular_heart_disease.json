@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_valvular_heart_disease",
+  "display_name": "Subinfo: Participant has primary hemodynamically-significant uncorrected valvular heart disease (obstructive or regurgitant) or any valvular disease expected to require surgery during the trial",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

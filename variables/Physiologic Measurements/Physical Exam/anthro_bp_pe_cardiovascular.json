@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_cardiovascular",
+  "display_name": "Anthro: Cardiovascular",
+  "description": "",
+  "type": "choices",
+  "domain": "normal_abnormal_not_donef",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

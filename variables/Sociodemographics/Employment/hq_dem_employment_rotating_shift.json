@@ -1,0 +1,11 @@
+{
+  "id": "hq_dem_employment_rotating_shift",
+  "display_name": "HQ: Work rotating night shifts",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnonaf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "night_shift"
+  ]
+}

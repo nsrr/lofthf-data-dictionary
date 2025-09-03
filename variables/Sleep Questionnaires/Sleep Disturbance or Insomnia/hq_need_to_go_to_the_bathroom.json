@@ -1,0 +1,10 @@
+{
+  "id": "hq_need_to_go_to_the_bathroom",
+  "display_name": "HQ: Need to go to the bathroom",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_alwaysf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

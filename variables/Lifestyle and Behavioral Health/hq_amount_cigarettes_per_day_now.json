@@ -1,0 +1,10 @@
+{
+  "id": "hq_amount_cigarettes_per_day_now",
+  "display_name": "HQ: Daily cigarettes",
+  "description": "",
+  "type": "integer",
+  "units": "counts",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

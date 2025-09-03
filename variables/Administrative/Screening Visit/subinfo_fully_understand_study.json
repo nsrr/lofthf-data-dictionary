@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_fully_understand_study",
+  "display_name": "Subinfo: Participant able to fully understand study information and sign an IRB-approved informed consent",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

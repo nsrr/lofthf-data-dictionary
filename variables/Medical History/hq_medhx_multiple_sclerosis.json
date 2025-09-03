@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_multiple_sclerosis",
+  "display_name": "HQ: Multiple Sclerosis",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

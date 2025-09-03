@@ -1,0 +1,11 @@
+{
+  "id": "hq_snore_frequency",
+  "display_name": "HQ: Current snoring frequency (last month)",
+  "description": "",
+  "type": "choices",
+  "domain": "snore_frequencyf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "snore"
+  ]
+}

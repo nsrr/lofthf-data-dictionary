@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_high_blood_cholesterol",
+  "display_name": "HQ: High blood cholesterol",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

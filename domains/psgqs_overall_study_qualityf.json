@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Outstanding- All signals usable for at least 6 hours analysis start to analysis stop and almost entire >=95% of the sleep time",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Excellent- At least one EEG (AF3, AF4, AF7, or AF8), one EOG channel (E1 or E2), one reference channel (E3 or E4), both belts or flow, and oximetry usable for 6 hours analysis start to analysis stop and >=75% of the sleep time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Good-At least one EEG (AF3, AF4, AF7, AF8), one EOG (E1 or E2), one reference channel (E3 or E4), one respiratory channel (flow or either band), and oximetry usable for 6 hours analysis start to analysis stop and >=50% of the sleep time",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Fair- At least one EEG (AF3, AF4, AF7, or AF8), one reference channel (E3 or E4), one respiratory channel (flow or either band), and oximetry usable for a minimum of 4 hours analysis start to analysis stop",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Poor- One respiratory channel (flow or either band) usable for a minimum of >=2 hours, and oximetry usable for a minimum of >=2 hours analysis start to analysis stop or if the study was staged as sleep/wake only",
+    "description": ""
+  }
+]

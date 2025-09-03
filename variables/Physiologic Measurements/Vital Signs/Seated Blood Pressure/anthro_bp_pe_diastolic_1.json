@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_diastolic_1",
+  "display_name": "Anthro: Diastolic Blood Pressure - Measurement 1",
+  "description": "",
+  "type": "integer",
+  "units": "millimeters of mercury (mmHg)",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

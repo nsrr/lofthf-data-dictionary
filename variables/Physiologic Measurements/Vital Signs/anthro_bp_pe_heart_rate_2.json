@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_heart_rate_2",
+  "display_name": "Anthro: Heart Rate - Measurement 2",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

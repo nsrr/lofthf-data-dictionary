@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_peripheral_edema",
+  "display_name": "Anthro: Peripheral edema",
+  "description": "",
+  "type": "choices",
+  "domain": "no_yes_unsure_not_donef",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

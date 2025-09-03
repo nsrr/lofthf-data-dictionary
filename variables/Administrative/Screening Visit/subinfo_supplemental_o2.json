@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_supplemental_o2",
+  "display_name": "Subinfo: Participant has chronic daytime or nighttime use of supplemental oxygen",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_high_cholesterol_meds",
+  "display_name": "HQ: Taking medicine for high blood cholesterol",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

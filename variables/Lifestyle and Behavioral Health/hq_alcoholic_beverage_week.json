@@ -1,0 +1,10 @@
+{
+  "id": "hq_alcoholic_beverage_week",
+  "display_name": "HQ: Days consumed an alchoholic beverage of any type in a typical week during the past year",
+  "description": "",
+  "type": "choices",
+  "domain": "daysf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

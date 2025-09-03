@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_height",
+  "display_name": "Anthro: Standing Height",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters (cm)",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

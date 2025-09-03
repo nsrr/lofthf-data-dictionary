@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_days_rndm_to_stop_partc",
+  "display_name": "Subinfo: Days from Randomization to Study Stop (see stop_type for reason)",
+  "description": "",
+  "type": "integer",
+  "units": "days from index date"
+}

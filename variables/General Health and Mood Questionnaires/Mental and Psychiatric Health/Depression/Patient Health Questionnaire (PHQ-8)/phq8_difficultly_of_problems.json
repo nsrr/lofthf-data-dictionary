@@ -1,0 +1,10 @@
+{
+  "id": "phq8_difficultly_of_problems",
+  "display_name": "Patient Health Questionnaire (PHQ)-8: If participant checked off any problems, level of difficulty caused by those problems in completing work, taking care of things at home, or getting along with others",
+  "description": "Patient Health Questionnaire 8-item. [Kroenke K et al. 2001 (PubMED ID: 11556941)](10.1046/j.1525-1497.2001.016009606.x)<br><br>[Search for all PHQ-8 variables within this dataset]((https://sleepdata.org/datasets/loft/variables?search=phq8))",
+  "type": "choices",
+  "domain": "phq8_difficulty_of_problemsf",
+  "labels": [
+    "phq8"
+  ]
+}

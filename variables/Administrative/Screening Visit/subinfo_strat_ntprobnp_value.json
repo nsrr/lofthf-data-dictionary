@@ -1,0 +1,6 @@
+{
+  "id": "subinfo_strat_ntprobnp_value",
+  "display_name": "Subinfo: Participant's NTproBNP",
+  "description": "",
+  "type": "integer"
+}

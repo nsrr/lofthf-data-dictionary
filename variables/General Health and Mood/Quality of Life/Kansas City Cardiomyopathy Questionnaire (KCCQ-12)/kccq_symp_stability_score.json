@@ -1,0 +1,10 @@
+{
+  "id": "kccq_symp_stability_score",
+  "display_name": "Kansas City Cardiomyopathy Questionnaire (KCCQ): Symptom Stability Score",
+  "description": "Subscore for the Kansas City Cardiomyopathy Questionnaire (KCCQ) symptom stability domain. The subscore measures recent changes in patients' symptoms; their shortness of breath, fatigue or swelling. It is compares patients frequency of heart failure symptoms at the time of completing the KCCQ with their frequency 2 weeks ago. As a measure of change, it is most interpretable as a baseline assessment of the stability of patients' symptoms at the start of a study and shortly thereafter, as a measure of the acute response to treatment. This domain is not included in the summary scores. [Green CP 2000 (PubMed ID: 10758967)](https://pubmed.ncbi.nlm.nih.gov/10758967/)<br><br>[Search for all KCCQ variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=kccq)",
+  "type": "integer",
+  "labels": [
+    "kccq",
+    "kccq_sympsta_score"
+  ]
+}

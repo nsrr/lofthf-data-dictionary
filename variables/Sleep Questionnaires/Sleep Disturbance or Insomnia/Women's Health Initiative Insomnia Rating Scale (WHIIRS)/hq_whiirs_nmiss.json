@@ -1,0 +1,9 @@
+{
+  "id": "hq_whiirs_nmiss",
+  "display_name": "HQ: Number of missing Women's Health Initiative Insomnia Rating Scale (WHIIRS) items (Range: 0-5)",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

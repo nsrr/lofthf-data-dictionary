@@ -1,0 +1,10 @@
+{
+  "id": "hq_ever_fainted",
+  "display_name": "HQ: Ever fainted",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

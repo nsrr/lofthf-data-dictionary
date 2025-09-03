@@ -1,0 +1,11 @@
+{
+  "id": "hq_fall_asleep_minutes",
+  "display_name": "HQ: Minutes to fall asleep at bedtime",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "sleep_latency"
+  ]
+}

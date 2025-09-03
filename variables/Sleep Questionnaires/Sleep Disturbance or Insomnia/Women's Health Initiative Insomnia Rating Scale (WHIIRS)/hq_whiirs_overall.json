@@ -1,0 +1,13 @@
+{
+  "id": "hq_whiirs_overall",
+  "display_name": "Women's Health Initiative Insomnia Rating Scale: Typical night sleep",
+  "description": "Item from the Women's Health Initiative Insomnia Rating Scale. [Levine et al.(2003)](https://psycnet.apa.org/record/2003-06188-004) <br><br> [Search for all WHIIRS variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=whiirs)",
+  "type": "choices",
+  "domain": "restful_restlessf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "sleep_quality",
+    "whiirs_5quality",
+    "whiirs"
+  ]
+}

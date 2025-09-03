@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_smoker",
+  "display_name": "",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

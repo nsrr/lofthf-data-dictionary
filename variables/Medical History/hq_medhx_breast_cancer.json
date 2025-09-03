@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_breast_cancer",
+  "display_name": "HQ: Breast Cancer",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

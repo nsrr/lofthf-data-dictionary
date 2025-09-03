@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_nyha_eligibility",
+  "display_name": "Subinfo: Participant has a New York Heart Association (NYHA) Class III or IV or NYHA Class II with >=1 hospitalization for HF in the last 24 months, an ED visit for HF exacerbation where they received an IV diuretic in the last 12 months, or a BMI c",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

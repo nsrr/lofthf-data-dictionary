@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_other_cancer",
+  "display_name": "HQ: Other Cancer",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

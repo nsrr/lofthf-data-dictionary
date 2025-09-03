@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_month_rndm_to_dob",
+  "display_name": "Subinfo: Months from Randomization to DOB (Age in Months)",
+  "description": "",
+  "type": "integer",
+  "units": "months from index date"
+}

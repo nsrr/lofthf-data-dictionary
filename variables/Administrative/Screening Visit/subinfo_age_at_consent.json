@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_age_at_consent",
+  "display_name": "Subinfo: Participant aged 21 years or older at the date of consent",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

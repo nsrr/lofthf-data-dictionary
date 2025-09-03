@@ -1,0 +1,65 @@
+---
+title: "lofthf-scripts"
+output: html_notebook
+---
+```{r}
+setwd("/VOLUMES/BWH-SLEEPEPI-LOFT/Data/SAS/_FINAL/30-Datasets")
+# rbind the dataset with same prefixes: 
+prefixes <- c("anthropometry", "eq5d", "hq", "kccq", "phq8", "promis")
+timepoints <- c("base", "6mo", "12mo")
+
+# combine datasets for each prefix
+combine_datasets <- function(prefix) {
+  datasets <- list()
+  for(time in timepoints) {
+    filename <- paste0(prefix, "_", time, ".csv")
+    data <- read.csv(filename, stringsAsFactors = FALSE)
+    datasets[[time]] <- data
+  }
+  combined <- do.call(rbind, datasets)
+  return(combined)
+}
+
+# now all datasets with *base, 6mon, and 12mon are in combined*data list
+combined_data <- lapply(prefixes, combine_datasets)
+names(combined_data) <- prefixes
+
+# merge all datasets in combined_data by "subject", "timepoint", "site"
+merged_data <- combined_data[[1]]
+for(i in 2:length(combined_data)) {
+  merged_data <- merge(merged_data, combined_data[[i]], 
+                      by = c("subject", "timepoint", "site"),
+                      all = TRUE)
+}
+
+# add psg and subinfo datasets
+psg <- read.csv("/Volumes/BWH-SLEEPEPI-LOFT/Data/SAS/_FINAL/30-Datasets/psg/loftpsg_nsrr.csv", stringsAsFactors = FALSE)
+subinfo <- read.csv("subinfo.csv", stringsAsFactors = FALSE)
+
+# add timepoint values
+psg$timepoint <- 99
+subinfo$timepoint <- 0
+
+site_lookup <- unique(subinfo[, c("subject", "site")])
+
+# add site column to psg data based on subject
+psg <- merge(psg, site_lookup, by = "subject", all.x = TRUE)
+
+# merge PSG with merged_data 
+final_data <- merge(merged_data, psg,
+                   by = c("subject", "timepoint", "site"),
+                   all = TRUE)
+
+# add subinfo dataset
+final_data <- merge(final_data, subinfo,
+                   by = c("subject", "timepoint", "site"),
+                   all = TRUE)
+
+# a few variables doesn't have dd. remove them
+variables_to_remove <- c("eq_index", "i1", "u")
+final_data <- final_data[, !names(final_data) %in% variables_to_remove]
+
+write.csv(final_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/0.1.0.pre/lofthf-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
+```
+
+

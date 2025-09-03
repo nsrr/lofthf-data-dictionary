@@ -1,0 +1,11 @@
+{
+  "id": "hq_relieve_rls_by_rubbing_legs",
+  "display_name": "HQ: Sometimes feel need to move relieve discomfort (e.g walking, rubbing legs)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "rls_plms"
+  ]
+}

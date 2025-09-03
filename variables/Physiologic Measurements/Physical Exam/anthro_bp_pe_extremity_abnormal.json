@@ -1,0 +1,9 @@
+{
+  "id": "anthro_bp_pe_extremity_abnormal",
+  "display_name": "Anthro: Reason extremities are abnormal",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

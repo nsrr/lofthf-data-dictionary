@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_weight",
+  "display_name": "Anthro: Current Weight",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms (kg)",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

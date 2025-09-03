@@ -1,0 +1,11 @@
+{
+  "id": "eq5d_mobility",
+  "display_name": "EuroQol- 5 Dimension (EQ-5D): 1. Mobility",
+  "description": "Item from EuroQol- 5 Dimension (EQ-5D), a five-dimension descriptive system to assess generic-quality of life. Higher scores indicate greater mobility limitations. [EuroQol Research Foundation. EQ-5D-3L User Guide, 2018.](https://euroqol.org/publications/user-guides)<br><br>[Search for all EQ-5D variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=eq5d)",
+  "type": "choices",
+  "domain": "eq5d_mobility_choicesf",
+  "labels": [
+    "eq5d",
+    "eq5d_01mobility"
+  ]
+}

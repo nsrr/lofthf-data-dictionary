@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_insomnia",
+  "display_name": "HQ: Insomnia",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

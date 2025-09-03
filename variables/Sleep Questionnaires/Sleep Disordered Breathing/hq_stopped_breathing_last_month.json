@@ -1,0 +1,11 @@
+{
+  "id": "hq_stopped_breathing_last_month",
+  "display_name": "HQ: Occurrences of sleep apnea (last month)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "snore"
+  ]
+}

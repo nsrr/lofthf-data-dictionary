@@ -1,0 +1,11 @@
+{
+  "id": "hq_snorted_gasped_frequency",
+  "display_name": "HQ: Frequency of snorting or gasping occurrences during sleep (last month)",
+  "description": "",
+  "type": "choices",
+  "domain": "rarely_always_dkf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "snore"
+  ]
+}

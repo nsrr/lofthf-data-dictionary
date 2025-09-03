@@ -1,0 +1,11 @@
+{
+  "id": "hq_dem_employment_steady_shift",
+  "display_name": "HQ: Work steady night shifts",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnonaf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "night_shift"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "anthro_days_rndm_to_emr",
+  "display_name": "Anthro: Days from Randomization to EMR Access",
+  "description": "Negative value indicates date is pre-randomization",
+  "type": "integer",
+  "units": "days from index date",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_diabetes_type_meds",
+  "display_name": "HQ: Kind of medicine taken for diabetes",
+  "description": "",
+  "type": "choices",
+  "domain": "diabetes_medsf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

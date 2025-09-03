@@ -1,0 +1,11 @@
+{
+  "id": "promis_sd_sum",
+  "display_name": "PROMIS: Sleep disturbance 8b sum of 8 items (range: 8-40)",
+  "description": "Calculated - Raw summary score for the PROMIS Sleep Disturbance instrument. Each item ranges from 1 to 5. The raw score is the sum of 8 items. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=promissd)",
+  "type": "integer",
+  "labels": [
+    "promissd",
+    "promissd_total",
+    "insomnia"
+  ]
+}

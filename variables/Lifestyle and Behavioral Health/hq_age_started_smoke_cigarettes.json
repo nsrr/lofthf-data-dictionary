@@ -1,0 +1,10 @@
+{
+  "id": "hq_age_started_smoke_cigarettes",
+  "display_name": "HQ: Age first started regular cigarette smoking",
+  "description": "",
+  "type": "integer",
+  "units": "years",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

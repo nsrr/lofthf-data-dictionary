@@ -1,0 +1,10 @@
+{
+  "id": "hq_dem_income",
+  "display_name": "HQ: Annual household income before taxes",
+  "description": "",
+  "type": "choices",
+  "domain": "incomef",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

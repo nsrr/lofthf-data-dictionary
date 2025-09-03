@@ -1,0 +1,10 @@
+{
+  "id": "hq_caffeine_beverages_last_month",
+  "display_name": "HQ: Frequency drink beverages containing caffeine (cola, coffee, tea, etc.)",
+  "description": "",
+  "type": "choices",
+  "domain": "beveragesf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "< 25% of entire estimated sleep time",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "25-49% of entire estimated sleep time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "50-74% of entire estimated sleep time",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "75-94% of entire estimated sleep time",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Entire estimated sleep time (>= 95%)",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "-8. Signal was not used in the scoring montage.",
+    "description": ""
+  }
+]

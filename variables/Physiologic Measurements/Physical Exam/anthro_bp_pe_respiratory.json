@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_respiratory",
+  "display_name": "Anthro: Respiratory (Not OSAS)",
+  "description": "",
+  "type": "choices",
+  "domain": "normal_abnormal_not_donef",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

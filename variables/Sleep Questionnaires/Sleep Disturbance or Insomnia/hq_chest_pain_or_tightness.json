@@ -1,0 +1,10 @@
+{
+  "id": "hq_chest_pain_or_tightness",
+  "display_name": "HQ: Chest pain or tightness",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_alwaysf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

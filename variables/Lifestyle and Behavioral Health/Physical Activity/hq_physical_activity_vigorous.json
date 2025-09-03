@@ -1,0 +1,9 @@
+{
+  "id": "hq_physical_activity_vigorous",
+  "display_name": "HQ: Vigorous recreational activities or sports such as jogging, swimming, cycling, aerobic dance, skiing, or other similar activities",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

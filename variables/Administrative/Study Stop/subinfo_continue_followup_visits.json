@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_continue_followup_visits",
+  "display_name": "Subinfo: Participant continuing with follow-up visits",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

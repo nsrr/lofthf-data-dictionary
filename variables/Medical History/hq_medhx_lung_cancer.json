@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_lung_cancer",
+  "display_name": "HQ: Lung Cancer",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

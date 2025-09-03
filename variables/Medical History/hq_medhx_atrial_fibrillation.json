@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_atrial_fibrillation",
+  "display_name": "HQ: Atrial Fibrillation",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

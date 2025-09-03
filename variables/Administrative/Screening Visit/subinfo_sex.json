@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_sex",
+  "display_name": "Subinfo: Sex",
+  "description": "",
+  "type": "choices",
+  "domain": "sexf"
+}

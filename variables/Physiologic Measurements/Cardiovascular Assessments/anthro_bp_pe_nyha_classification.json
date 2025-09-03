@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_nyha_classification",
+  "display_name": "Anthro: New York Heart Association (NYHA) Classification of Heart Failure",
+  "description": "",
+  "type": "choices",
+  "domain": "nyha_classificationf",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

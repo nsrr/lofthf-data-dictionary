@@ -1,0 +1,10 @@
+{
+  "id": "hq_dem_primary_language",
+  "display_name": "HQ: Primary language",
+  "description": "",
+  "type": "choices",
+  "domain": "languagef",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

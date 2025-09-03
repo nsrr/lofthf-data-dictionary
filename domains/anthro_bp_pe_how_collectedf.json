@@ -1,0 +1,12 @@
+[
+  {
+    "value": "1",
+    "display_name": "In-person clinic visit",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "EMR extraction (remote visit)",
+    "description": ""
+  }
+]

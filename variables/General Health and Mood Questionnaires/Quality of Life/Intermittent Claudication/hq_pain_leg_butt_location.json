@@ -1,0 +1,10 @@
+{
+  "id": "hq_pain_leg_butt_location",
+  "display_name": "HQ: Pain leg or buttock location",
+  "description": "",
+  "type": "choices",
+  "domain": "pain_calves_not_calvesf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

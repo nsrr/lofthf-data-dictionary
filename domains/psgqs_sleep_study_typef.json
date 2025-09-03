@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Nox in home",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Nox in hospital",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Clinical in hospital full PSG",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Clinical at home HSAT",
+    "description": ""
+  }
+]

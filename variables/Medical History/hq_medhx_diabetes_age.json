@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_diabetes_age",
+  "display_name": "HQ: Age diabetes first treated",
+  "description": "",
+  "type": "integer",
+  "units": "years",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

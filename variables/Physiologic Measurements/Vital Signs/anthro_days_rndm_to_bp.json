@@ -1,0 +1,10 @@
+{
+  "id": "anthro_days_rndm_to_bp",
+  "display_name": "Anthro: Days from Randomization to Blood Pressure Measurement",
+  "description": "Negative value indicates date is pre-randomization",
+  "type": "integer",
+  "units": "days from index date",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

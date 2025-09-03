@@ -1,0 +1,10 @@
+{
+  "id": "hq_pain_leg_butt_disappear_walk",
+  "display_name": "HQ: Pain leg or buttock disappear while walking",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

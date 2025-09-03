@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_how_collected",
+  "display_name": "Anthro: CRF data collection method",
+  "description": "",
+  "type": "choices",
+  "domain": "anthro_bp_pe_how_collectedf",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "subinfo_serum_creatinine",
+  "display_name": "Subinfo: Participant's most recent serum creatinine level",
+  "description": "",
+  "type": "numeric"
+}

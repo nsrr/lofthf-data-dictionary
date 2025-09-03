@@ -1,0 +1,10 @@
+{
+  "id": "hq_pain_leg_butt_ground_level",
+  "display_name": "HQ: Pain leg or buttock if walk ordinary pace ground level",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

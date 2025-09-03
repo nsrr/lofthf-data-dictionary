@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_heent",
+  "display_name": "Anthro: HEENT",
+  "description": "A HEENT examination is a portion of a physical examination that principally concerns the head, eyes, ears, nose, and throat.",
+  "type": "choices",
+  "domain": "normal_abnormal_not_donef",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

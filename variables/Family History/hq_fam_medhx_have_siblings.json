@@ -1,0 +1,10 @@
+{
+  "id": "hq_fam_medhx_have_siblings",
+  "display_name": "HQ: Has siblings",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

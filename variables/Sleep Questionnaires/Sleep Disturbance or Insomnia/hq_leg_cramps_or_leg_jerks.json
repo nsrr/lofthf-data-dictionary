@@ -1,0 +1,11 @@
+{
+  "id": "hq_leg_cramps_or_leg_jerks",
+  "display_name": "HQ: Leg cramps or leg jerks",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_alwaysf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "rls_plms"
+  ]
+}

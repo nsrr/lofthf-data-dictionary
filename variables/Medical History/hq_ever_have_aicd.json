@@ -1,0 +1,10 @@
+{
+  "id": "hq_ever_have_aicd",
+  "display_name": "HQ: Automatic implantable cardioverter-defibrillator (AICD)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

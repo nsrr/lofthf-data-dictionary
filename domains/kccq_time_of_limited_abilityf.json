@@ -1,0 +1,37 @@
+[
+  {
+    "value": "1",
+    "display_name": "All of the time",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Several times per day",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "At least once a day",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "3 or more times per week but not every day",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "1-2 times per week",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Less than once a week",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Never over the past 2 weeks",
+    "description": ""
+  }
+]

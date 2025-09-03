@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_colon_cancer",
+  "display_name": "HQ: Colon Cancer",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

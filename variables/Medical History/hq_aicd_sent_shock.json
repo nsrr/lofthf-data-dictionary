@@ -1,0 +1,10 @@
+{
+  "id": "hq_aicd_sent_shock",
+  "display_name": "HQ: AICD sent a shock",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "promis_sd_sleep_quality",
+  "display_name": "PROMIS: My sleep quality was (Reverse-coded)",
+  "description": "Item from the PROMIS Sleep Disturbance instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/ loft/variables?search=promissd)",
+  "type": "integer",
+  "labels": [
+    "promissd",
+    "promissd_08slpqual",
+    "sleep_quality"
+  ]
+}

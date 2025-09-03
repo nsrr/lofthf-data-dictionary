@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_cirrhosis",
+  "display_name": "HQ: Cirrhosis",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

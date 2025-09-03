@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_cardiac_resynchroniztn",
+  "display_name": "Subinfo: Participant has cardiac resynchronization therapy implantation scheduled or performed within 3 months prior to randomization",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_pain_leg_butt_walking",
+  "display_name": "HQ: Last month pain leg or buttock walking",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

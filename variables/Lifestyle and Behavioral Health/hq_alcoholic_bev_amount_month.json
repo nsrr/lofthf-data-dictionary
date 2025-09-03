@@ -1,0 +1,10 @@
+{
+  "id": "hq_alcoholic_bev_amount_month",
+  "display_name": "HQ: Largest number of drinks of  beer, wine and/or liquor in one day, in a typical month during the past year",
+  "description": "",
+  "type": "choices",
+  "domain": "alcoholic_beverage_amountf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

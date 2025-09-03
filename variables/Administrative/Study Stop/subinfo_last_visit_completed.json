@@ -1,0 +1,6 @@
+{
+  "id": "subinfo_last_visit_completed",
+  "display_name": "Subinfo: Last study visit the participant completed",
+  "description": "",
+  "type": "integer"
+}

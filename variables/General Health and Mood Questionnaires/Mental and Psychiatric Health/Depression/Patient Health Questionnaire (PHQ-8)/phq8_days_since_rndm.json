@@ -1,0 +1,10 @@
+{
+  "id": "phq8_days_since_rndm",
+  "display_name": "Patient Health Questionnaire (PHQ)-8: Days from Randomization to Patient Health Questionnaire (PHQ)-8",
+  "description": "",
+  "type": "integer",
+  "units": "days from index date",
+  "labels": [
+    "phq8"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_pain_joints_muscles_back",
+  "display_name": "HQ: Pain in your joints, muscles, or back",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_alwaysf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

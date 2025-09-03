@@ -1,0 +1,10 @@
+{
+  "id": "hq_shortness_of_breath",
+  "display_name": "HQ: Shortness of breath",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_alwaysf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

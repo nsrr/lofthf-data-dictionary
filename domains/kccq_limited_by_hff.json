@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Extremely limited",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Quite a bit limited",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Moderately limited",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Slightly limited",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Not at all limited",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Limited for other reasons or did not do the activity",
+    "description": ""
+  }
+]

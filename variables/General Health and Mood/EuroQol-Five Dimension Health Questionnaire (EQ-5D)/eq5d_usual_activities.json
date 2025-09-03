@@ -1,0 +1,11 @@
+{
+  "id": "eq5d_usual_activities",
+  "display_name": "EuroQol- 5 Dimension (EQ-5D): 3. Usual Activities *(e.g., work, study, housework, family, or leisure activities)*",
+  "description": "Item from EuroQol- 5 Dimension (EQ-5D), a five-dimension descriptive system to assess generic-quality of life. Higher scores correlate with reduced productivity or social participation. [EuroQol Research Foundation. EQ-5D-3L User Guide, 2018.](https://euroqol.org/publications/user-guides)<br><br>[Search for all EQ-5D variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=eq5d)",
+  "type": "choices",
+  "domain": "eq5d_usual_activities_choicesf",
+  "labels": [
+    "eq5d",
+    "eq5d_03activities"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_ever_pressure_heaviness_chest",
+  "display_name": "HQ: Pressure or heaviness in chest ever",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

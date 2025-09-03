@@ -1,0 +1,6 @@
+{
+  "id": "subinfo_stop_type",
+  "display_name": "Subinfo: Type of study stop",
+  "description": "",
+  "type": "integer"
+}

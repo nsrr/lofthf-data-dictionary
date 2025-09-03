@@ -1,0 +1,11 @@
+{
+  "id": "kccq_days_since_rndm",
+  "display_name": "Kansas City Cardiomyopathy Questionnaire (KCCQ): Days since Randomization",
+  "description": "Subscore for the Kansas City Cardiomyopathy Questionnaire (KCCQ) social limitation domain. The subscore is based on a 5-point ordinal scale of 13 items and standardized to range from 0 to 100 with higher scores indicating better health status, fewer symptoms, and greater disease-specific health-related quality of life. [Green CP 2000 (PubMed ID: 10758967)](https://pubmed.ncbi.nlm.nih.gov/10758967/)<br><br>[Search for all KCCQ variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=kccq)",
+  "type": "integer",
+  "units": "days from index date",
+  "labels": [
+    "kccq",
+    "kccq_clinical_summary_score"
+  ]
+}

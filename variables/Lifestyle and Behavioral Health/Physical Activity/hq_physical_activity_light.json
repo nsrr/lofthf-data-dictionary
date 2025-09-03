@@ -1,0 +1,9 @@
+{
+  "id": "hq_physical_activity_light",
+  "display_name": "HQ: Walking (include walking for fun or exercise, walking to work or school)",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

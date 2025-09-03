@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_race",
+  "display_name": "Subinfo: Race",
+  "description": "",
+  "type": "choices",
+  "domain": "racef"
+}

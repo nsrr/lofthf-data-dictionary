@@ -1,0 +1,11 @@
+{
+  "id": "hq_stopped_breathing_frequency",
+  "display_name": "HQ: Frequency of sleep apnea occurrences (last month)",
+  "description": "",
+  "type": "choices",
+  "domain": "rarely_always_dkf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "snore"
+  ]
+}

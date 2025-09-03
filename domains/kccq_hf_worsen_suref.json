@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Not at all sure",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Not very sure",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Somewhat sure",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Mostly sure",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Completely sure",
+    "description": ""
+  }
+]

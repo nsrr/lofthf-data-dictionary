@@ -1,0 +1,10 @@
+{
+  "id": "kccq_clinical_summary_score",
+  "display_name": "Kansas City Cardiomyopathy Questionnaire (KCCQ): Clinical Summary Score",
+  "description": "Overall sumary score for the Kansas City Cardiomyopathy Questionnaire (KCCQ). The total score is based on a 5-point ordinal scale of 20 items and standardized to range from 0 to 100 with higher scores indicating better health status, fewer symptoms, and greater disease-specific health-related quality of life. [Green CP 2000 (PubMed ID: 10758967)](https://pubmed.ncbi.nlm.nih.gov/10758967/)<br><br>[Search for all KCCQ variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=kccq)",
+  "type": "numeric",
+  "labels": [
+    "kccq",
+    "kccq_summary_score"
+  ]
+}

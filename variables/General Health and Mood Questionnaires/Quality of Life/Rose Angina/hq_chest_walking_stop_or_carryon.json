@@ -1,0 +1,10 @@
+{
+  "id": "hq_chest_walking_stop_or_carryon",
+  "display_name": "HQ: Actions if chest discomfort/pressure when walking",
+  "description": "",
+  "type": "choices",
+  "domain": "stop_or_carry_onf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

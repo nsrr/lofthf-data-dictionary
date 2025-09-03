@@ -1,0 +1,9 @@
+{
+  "id": "kccq_meansympfreq",
+  "display_name": "Kansas City Cardiomyopathy Questionnaire (KCCQ): Mean of Symptom Frequency items",
+  "description": "Mean of all items from the Kansas City Cardiomyopathy Questionnaire (KCCQ) symptom frequency subdomain. [Green CP 2000 (PubMed ID: 10758967)](https://pubmed.ncbi.nlm.nih.gov/10758967/)<br><br>[Search for all KCCQ variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=kccq)",
+  "type": "numeric",
+  "labels": [
+    "kccq"
+  ]
+}

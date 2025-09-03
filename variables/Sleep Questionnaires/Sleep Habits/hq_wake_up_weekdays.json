@@ -1,0 +1,11 @@
+{
+  "id": "hq_wake_up_weekdays",
+  "display_name": "HQ: Final wake up time weekdays/work days",
+  "description": "",
+  "type": "time",
+  "units": "H:mm:ss",
+  "labels": [
+    "sleep_timing",
+    "loft_health_questionnaires_form"
+  ]
+}

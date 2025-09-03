@@ -1,0 +1,12 @@
+{
+  "id": "hq_alcohol_before_bedtime",
+  "display_name": "HQ: Usually drink in the two hours before bedtime, when drinking achohol",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnona_drinkf",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "sleep_hygiene",
+    "sleep_habits"
+  ]
+}

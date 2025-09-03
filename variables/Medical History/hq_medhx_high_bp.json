@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_high_bp",
+  "display_name": "HQ: High blood pressure or hypertension",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

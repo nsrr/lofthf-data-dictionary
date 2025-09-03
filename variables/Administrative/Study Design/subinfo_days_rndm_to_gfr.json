@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_days_rndm_to_gfr",
+  "display_name": "Subinfo: Days from Randomization to QFR",
+  "description": "",
+  "type": "integer",
+  "units": "days from index date"
+}

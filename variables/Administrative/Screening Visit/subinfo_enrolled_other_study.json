@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_enrolled_other_study",
+  "display_name": "Subinfo: Participant is enrolled or planning to enroll in another study that may conflict with protocol requirements or confound subject results in this trial",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

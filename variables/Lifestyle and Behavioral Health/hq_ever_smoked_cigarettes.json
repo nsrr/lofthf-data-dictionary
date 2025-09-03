@@ -1,0 +1,10 @@
+{
+  "id": "hq_ever_smoked_cigarettes",
+  "display_name": "HQ: Ever smoked cigarettes",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

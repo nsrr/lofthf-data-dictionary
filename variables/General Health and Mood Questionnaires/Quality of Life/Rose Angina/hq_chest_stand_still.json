@@ -1,0 +1,10 @@
+{
+  "id": "hq_chest_stand_still",
+  "display_name": "HQ: Standing still chest discomfort pressure",
+  "description": "",
+  "type": "choices",
+  "domain": "relieved_not_relievedf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

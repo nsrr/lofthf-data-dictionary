@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_pregnancy",
+  "display_name": "Subinfo: Participant is pregnant or of child bearing potential with a positive pregnancy test within 10 days prior to enrollment",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hq_age_stopped_smoking_cigarette",
+  "display_name": "HQ: Age stopped smoking",
+  "description": "",
+  "type": "integer",
+  "units": "years",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

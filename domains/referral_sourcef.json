@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Inpatient Cardiology Clinic",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Outpatient Cardiology Clinic",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Sleep Clinic",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Community",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "LOFT-HF flyers, brochures, or other media",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Other means",
+    "description": ""
+  }
+]

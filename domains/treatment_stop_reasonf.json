@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Participant's physician has identified a change in signs or symptoms that warrants supplemental oxygen treatment",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "DSMB Chair and/or site PI determined participant should stop study treatment",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Participant's lack of adherence to study treatment",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Participant's lack of following study protocol",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Participant's decision to withdraw from study treatment",
+    "description": ""
+  }
+]

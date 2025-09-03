@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Severely limited",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Limited quite a bit",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Moderarely limited",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Slightly limited",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Did not limit at all",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Does not apply or did not do for other reasons",
+    "description": ""
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "id": "subinfo_estimated_gfr",
+  "display_name": "Subinfo: Participant's most recent estimated Glomerular Filtration Rate (eGFR)",
+  "description": "",
+  "type": "integer"
+}

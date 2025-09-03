@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than 1 year",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "1 to 2 years",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3 to 5 years",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "> 5 years",
+    "description": ""
+  }
+]

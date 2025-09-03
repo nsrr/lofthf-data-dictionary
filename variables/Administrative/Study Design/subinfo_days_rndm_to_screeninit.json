@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_days_rndm_to_screeninit",
+  "display_name": "Subinfo: Days from Randomization to Screening Initialization",
+  "description": "",
+  "type": "integer",
+  "units": "days from index date"
+}

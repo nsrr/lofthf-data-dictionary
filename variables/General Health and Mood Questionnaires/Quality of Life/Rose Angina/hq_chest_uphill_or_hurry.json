@@ -1,0 +1,10 @@
+{
+  "id": "hq_chest_uphill_or_hurry",
+  "display_name": "HQ: Chest discomfort/pressure when walk uphill hurry",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno_neveruphillf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

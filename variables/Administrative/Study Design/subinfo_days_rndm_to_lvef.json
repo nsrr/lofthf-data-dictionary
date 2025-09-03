@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_days_rndm_to_lvef",
+  "display_name": "Subinfo: Days from Randomization to left ventricular ejection fraction (LVEF)",
+  "description": "",
+  "type": "integer",
+  "units": "days from index date"
+}

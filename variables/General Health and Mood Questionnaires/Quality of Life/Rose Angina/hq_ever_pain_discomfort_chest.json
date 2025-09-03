@@ -1,0 +1,10 @@
+{
+  "id": "hq_ever_pain_discomfort_chest",
+  "display_name": "HQ: Pain or discomfort in chest ever",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

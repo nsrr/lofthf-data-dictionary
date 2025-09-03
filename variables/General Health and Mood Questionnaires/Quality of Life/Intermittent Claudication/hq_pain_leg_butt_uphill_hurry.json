@@ -1,0 +1,10 @@
+{
+  "id": "hq_pain_leg_butt_uphill_hurry",
+  "display_name": "HQ: Pain leg or buttock if walk uphill hurry",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno_neveruphillf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

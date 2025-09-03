@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_high_bp_age_treated",
+  "display_name": "HQ: Age high blood pressure first treated",
+  "description": "",
+  "type": "integer",
+  "units": "years",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

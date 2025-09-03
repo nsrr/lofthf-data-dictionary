@@ -1,0 +1,10 @@
+{
+  "id": "timepoint",
+  "display_name": "LOFT-HF Study Timepoint",
+  "description": "",
+  "type": "choices",
+  "domain": "timepointf",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

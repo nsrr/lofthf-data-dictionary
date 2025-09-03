@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "I felt that way all of the time",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I felt that way most of the time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I occasionally felt that way",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "I rarely felt that way",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "I never felt that way",
+    "description": ""
+  }
+]

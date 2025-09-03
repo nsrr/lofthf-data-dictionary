@@ -1,0 +1,12 @@
+{
+  "id": "hq_average_sleep_duration",
+  "display_name": "HQ: Typical sleep duration (weighted for 5 weekdays and 2 weekend days)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (hr)",
+  "calculation": "(5/7)*weekday_sleep_duration + (2/7)*weekend_sleep_duration",
+  "labels": [
+    "loft_health_questionnaires_form",
+    "sleep_duration"
+  ]
+}

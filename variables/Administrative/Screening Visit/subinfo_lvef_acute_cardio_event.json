@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_lvef_acute_cardio_event",
+  "display_name": "Subinfo: Left ventricular ejection fraction measured during an admission for an acute cardiovascular event",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

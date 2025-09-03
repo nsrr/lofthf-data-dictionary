@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_current_age",
+  "display_name": "Subinfo: Current Age",
+  "description": "",
+  "type": "integer",
+  "units": "years"
+}

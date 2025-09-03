@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_collagen_vascular_dx",
+  "display_name": "HQ: Rheumatoid arthritis, Lupus, or other Collagen Vascular Disease",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnodkf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

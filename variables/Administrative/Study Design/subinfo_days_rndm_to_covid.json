@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_days_rndm_to_covid",
+  "display_name": "Subinfo: Number of days from randomization to the start of the COVID-19 pandemic (approximation)",
+  "description": "",
+  "type": "integer",
+  "units": "days from index date"
+}

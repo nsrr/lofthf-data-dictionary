@@ -1,0 +1,10 @@
+{
+  "id": "anthro_bp_pe_respiratory_rate",
+  "display_name": "Anthro: Respiratory Rate",
+  "description": "",
+  "type": "integer",
+  "units": "counts per minute",
+  "labels": [
+    "loft_anthropometry_form"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "subinfo_comply_study_reqmnts",
+  "display_name": "Subinfo: Participant is willing and able to comply with all study requirements as per investigators opinion",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

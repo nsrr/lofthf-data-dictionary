@@ -1,0 +1,10 @@
+{
+  "id": "hq_noise_in_your_surroundings",
+  "display_name": "HQ: Noise in your surroundings",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_alwaysf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

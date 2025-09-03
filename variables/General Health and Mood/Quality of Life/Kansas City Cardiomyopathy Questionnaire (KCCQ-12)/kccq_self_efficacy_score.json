@@ -1,0 +1,9 @@
+{
+  "id": "kccq_self_efficacy_score",
+  "display_name": "Kansas City Cardiomyopathy Questionnaire (KCCQ): Self-Efficacy Score",
+  "description": "Mean of all items from the Kansas City Cardiomyopathy Questionnaire (KCCQ) self-efficacy domain. The subscore quantifies patients' perceptions of how to prevent heart failure exacerbations and manage complications when they arise. This scale is not included in the summary scores. [Green CP 2000 (PubMed ID: 10758967)](https://pubmed.ncbi.nlm.nih.gov/10758967/)<br><br>[Search for all KCCQ variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=kccq)",
+  "type": "numeric",
+  "labels": [
+    "kccq"
+  ]
+}

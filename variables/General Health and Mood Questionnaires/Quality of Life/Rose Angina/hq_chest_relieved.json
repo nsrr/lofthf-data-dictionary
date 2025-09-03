@@ -1,0 +1,10 @@
+{
+  "id": "hq_chest_relieved",
+  "display_name": "HQ: Time until relieved chest discomfort/pressure",
+  "description": "",
+  "type": "choices",
+  "domain": "ten_minutes_or_moref",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

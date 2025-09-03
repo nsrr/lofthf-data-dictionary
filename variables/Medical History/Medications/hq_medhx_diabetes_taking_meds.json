@@ -1,0 +1,10 @@
+{
+  "id": "hq_medhx_diabetes_taking_meds",
+  "display_name": "HQ: Taking medicine for diabetes",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}

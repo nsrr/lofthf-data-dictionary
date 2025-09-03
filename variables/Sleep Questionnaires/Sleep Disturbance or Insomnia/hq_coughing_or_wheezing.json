@@ -1,0 +1,10 @@
+{
+  "id": "hq_coughing_or_wheezing",
+  "display_name": "HQ: Coughing or wheezing",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_alwaysf",
+  "labels": [
+    "loft_health_questionnaires_form"
+  ]
+}
