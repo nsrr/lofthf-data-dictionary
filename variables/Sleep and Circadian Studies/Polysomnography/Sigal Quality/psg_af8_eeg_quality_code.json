@@ -1,0 +1,7 @@
+{
+  "id": "psg_af8_eeg_quality_code",
+  "display_name": "PSG: AF8 (EEG) Quality Code",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_signal_qualityf"
+}

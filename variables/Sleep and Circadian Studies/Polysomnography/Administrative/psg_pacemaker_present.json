@@ -1,0 +1,7 @@
+{
+  "id": "psg_pacemaker_present",
+  "display_name": "PSG:Pacemaker present?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_baseline_spo2",
+  "display_name": "PSG: Baseline SpO2",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

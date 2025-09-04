@@ -1,0 +1,10 @@
+{
+  "id": "avg_pulse",
+  "display_name": "Average pulse during sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_f1t2"
+  ]
+}

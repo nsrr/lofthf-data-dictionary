@@ -1,0 +1,7 @@
+{
+  "id": "psg_a_fib_flutter_cont_intermi",
+  "display_name": "PSG: Is atrial fibrillation/flutter continuous or intermittent?",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_contin_or_interminttentf"
+}

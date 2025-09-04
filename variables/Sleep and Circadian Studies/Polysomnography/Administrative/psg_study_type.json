@@ -1,0 +1,7 @@
+{
+  "id": "psg_study_type",
+  "display_name": "PSG: Study type",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_study_typef"
+}

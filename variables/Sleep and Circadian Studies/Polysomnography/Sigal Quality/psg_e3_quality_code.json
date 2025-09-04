@@ -1,0 +1,7 @@
+{
+  "id": "psg_e3_quality_code",
+  "display_name": "PSG: E3 Quality Code",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_signal_qualityf"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "spo2_90",
+  "display_name": "Percent of total sleep duration with oxygen saturation < 90% from type II polysomnography",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep, conventionally called total sleep time.",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_salt90_f1t2"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "analysis_start_time",
+  "display_name": "PSQ Quality: Analysis Start Time",
+  "description": "",
+  "type": "time",
+  "units": "H:mm:ss"
+}

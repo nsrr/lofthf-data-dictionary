@@ -1,0 +1,7 @@
+{
+  "id": "psg_af4_eeg_quality_code",
+  "display_name": "PSG: AF4 (EEG) Quality code",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_signal_qualityf"
+}

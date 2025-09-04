@@ -1,0 +1,7 @@
+{
+  "id": "psg_csr_during_wake",
+  "display_name": "PSG: Cheyne-Stokes breathing during wakefulness",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

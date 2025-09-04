@@ -1,0 +1,7 @@
+{
+  "id": "psg_mask_pres_quality_code",
+  "display_name": "PSG: Mask Pressure Quality Code",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_signal_qualityf"
+}

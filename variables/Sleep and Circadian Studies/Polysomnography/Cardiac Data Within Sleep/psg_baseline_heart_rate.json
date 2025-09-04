@@ -1,0 +1,7 @@
+{
+  "id": "psg_baseline_heart_rate",
+  "display_name": "PSG: Baseline Heart Rate",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute (bpm)"
+}

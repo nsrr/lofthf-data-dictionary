@@ -1,0 +1,7 @@
+{
+  "id": "psg_days_rndm_to_rec_stop",
+  "display_name": "PSG: Days from Randomization to PSG Recording Stop Date",
+  "description": "Negative value indicates date is pre-randomization",
+  "type": "integer",
+  "units": "days from index date"
+}

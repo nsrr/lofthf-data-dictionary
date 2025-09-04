@@ -1,0 +1,7 @@
+{
+  "id": "psg_trigeminy_present",
+  "display_name": "PSG: Trigeminy present?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

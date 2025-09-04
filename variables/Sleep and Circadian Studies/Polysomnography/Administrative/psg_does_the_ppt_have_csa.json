@@ -1,0 +1,7 @@
+{
+  "id": "psg_does_the_ppt_have_csa",
+  "display_name": "PSG: Does the participant have Central Sleep Apnea? (AHI >15/h with >=50% central events (apnea and hypopneas) and a [central AHI >=10/h])",
+  "description": "",
+  "type": "choices",
+  "domain": "missing"
+}

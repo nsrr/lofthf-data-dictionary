@@ -1,6 +1,7 @@
 {
   "id": "subinfo_stop_type",
-  "display_name": "Subinfo: Type of study stop",
+  "display_name": "Reason for stopping study participation",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "stop_type"
 }

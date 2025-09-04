@@ -1,0 +1,6 @@
+{
+  "id": "psg_spo2_usable_signal",
+  "display_name": "PSG: SpO2 Usable Signal",
+  "description": "",
+  "type": "integer"
+}

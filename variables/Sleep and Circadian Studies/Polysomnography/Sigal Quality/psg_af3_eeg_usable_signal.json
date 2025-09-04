@@ -1,0 +1,6 @@
+{
+  "id": "psg_af3_eeg_usable_signal",
+  "display_name": "PSG: AF3 (EEG) Usable Signal",
+  "description": "",
+  "type": "integer"
+}

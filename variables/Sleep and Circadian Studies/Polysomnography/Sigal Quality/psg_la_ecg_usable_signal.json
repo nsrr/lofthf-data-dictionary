@@ -1,0 +1,6 @@
+{
+  "id": "psg_la_ecg_usable_signal",
+  "display_name": "PSG: LA (ECG) Usable Signal",
+  "description": "",
+  "type": "integer"
+}

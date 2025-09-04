@@ -1,0 +1,7 @@
+{
+  "id": "psg_atrial_fib_flutter",
+  "display_name": "PSG: Atrial fibrillation/flutter present?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_spo2_quality_code",
+  "display_name": "PSG: SpO2 Quality Code",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_signal_qualityf"
+}

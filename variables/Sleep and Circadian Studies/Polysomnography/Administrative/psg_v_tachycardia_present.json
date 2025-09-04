@@ -1,0 +1,7 @@
+{
+  "id": "psg_v_tachycardia_present",
+  "display_name": "PSG: Ventricular Tachycardia present?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

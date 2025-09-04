@@ -1,0 +1,6 @@
+{
+  "id": "psg_abdomen_rip_usable_signal",
+  "display_name": "PSG: Abdomen RIP Usable Signal",
+  "description": "",
+  "type": "integer"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Certain CSA (far majority central events [e.g. >75%] plus high confidence that the scored central events were central)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Likely CSA (predominant CSA with either meaningful proportion of OSA [>=25%] and/or scored central events had obstructive features; somewhat confident that a CSA diagnosis is appropriate)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Highly uncertain (close balance of CSA + OSA, and/or mixed features of OSA and CSA; or particularly difficult to decide on event classification, scorer not confident in classification of respiratory events)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Likely OSA (predominant OSA with either meaningful proportion of CSA [>=25%] and/or scored obstructive events had central features; somewhat confident that an OSA diagnosis is appropriate)",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Certain OSA (far majority obstructive events [e.g. >75%] plus high confidence that the scored obstructive events were obstructive)",
+    "description": ""
+  }
+]

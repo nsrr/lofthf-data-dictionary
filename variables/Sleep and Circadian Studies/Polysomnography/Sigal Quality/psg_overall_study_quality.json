@@ -1,0 +1,10 @@
+{
+  "id": "psg_overall_study_quality",
+  "display_name": "PSG: Overall Study Quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_overall_study_qualityf",
+  "labels": [
+    "nsrr_flag_quality"
+  ]
+}

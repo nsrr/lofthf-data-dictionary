@@ -1,0 +1,7 @@
+{
+  "id": "psg_sleep_study_type",
+  "display_name": "PSG: Sleep study type",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_sleep_study_typef"
+}

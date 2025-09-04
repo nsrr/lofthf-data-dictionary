@@ -1,0 +1,6 @@
+{
+  "id": "psg_afz_ref_signal_usable_sign",
+  "display_name": "PSG: AFZ (REF) Usable Signal",
+  "description": "",
+  "type": "integer"
+}

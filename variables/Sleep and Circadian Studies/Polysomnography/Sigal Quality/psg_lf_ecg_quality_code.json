@@ -1,0 +1,7 @@
+{
+  "id": "psg_lf_ecg_quality_code",
+  "display_name": "PSG: LF (ECG) Quality Code",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_signal_qualityf"
+}

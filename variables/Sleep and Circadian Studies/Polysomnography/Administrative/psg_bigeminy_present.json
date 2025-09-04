@@ -1,0 +1,7 @@
+{
+  "id": "psg_bigeminy_present",
+  "display_name": "PSG: Bigeminy present?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

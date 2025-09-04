@@ -1,0 +1,7 @@
+{
+  "id": "psg_low_oxygen_saturation",
+  "display_name": "PSG: Does the participant have an oxygen saturation <88% for >5 continuous minutes during sleep unaccompanied by respiratory events?",
+  "description": "",
+  "type": "choices",
+  "domain": "missing"
+}

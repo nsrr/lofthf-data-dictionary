@@ -1,0 +1,6 @@
+{
+  "id": "psg_thorax_rip_usable_signal",
+  "display_name": "PSG: Thorax RIP Usable Signal",
+  "description": "",
+  "type": "integer"
+}

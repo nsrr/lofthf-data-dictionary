@@ -1,0 +1,7 @@
+{
+  "id": "psg_score_sleep_wake_only",
+  "display_name": "PSG: Was the study scored as sleep/wake only?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

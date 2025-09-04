@@ -1,0 +1,7 @@
+{
+  "id": "psg_afz_ref_signal_quality_code",
+  "display_name": "PSG:  AFZ (REF)  Quality Code",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqs_signal_qualityf"
+}

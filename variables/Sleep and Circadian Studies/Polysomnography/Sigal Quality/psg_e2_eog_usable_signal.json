@@ -1,0 +1,6 @@
+{
+  "id": "psg_e2_eog_usable_signal",
+  "display_name": "PSG: E2 (EOG) Usable Signal",
+  "description": "",
+  "type": "integer"
+}

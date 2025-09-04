@@ -1,0 +1,7 @@
+{
+  "id": "psg_scorer_impress_of_resp_evt",
+  "display_name": "PSQ Quality: Scorer impression of respiratory events",
+  "description": "",
+  "type": "choices",
+  "domain": "resp"
+}

@@ -56,10 +56,80 @@ final_data <- merge(final_data, subinfo,
                    all = TRUE)
 
 # a few variables doesn't have dd. remove them
-variables_to_remove <- c("eq_index", "i1", "u")
+variables_to_remove <- c("eq_index", "i1", "u","subinfo_last_visit_completed","promis_sd_sum_m","promis_sri_sum_m")
 final_data <- final_data[, !names(final_data) %in% variables_to_remove]
 
 write.csv(final_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/0.1.0.pre/lofthf-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
 ```
 
+
+# harmonized dataset
+```{r}
+harmonized_data<-final_data[,c("subject","timepoint", "subinfo_current_age", "anthro_bp_pe_bmi", "subinfo_ethnicity", "subinfo_race", 
+                             "subinfo_sex", "anthro_bp_pe_diastolic_1","anthro_bp_pe_diastolic_2","anthro_bp_pe_diastolic_3","anthro_bp_pe_systolic_1","anthro_bp_pe_systolic_2","anthro_bp_pe_systolic_3","hq_ever_smoked_cigarettes")]%>%
+  dplyr::mutate(nsrrid=subject,
+                nsrr_age=subinfo_current_age,
+                nsrr_bmi=anthro_bp_pe_bmi,
+                nsrr_bp_diastolic=(anthro_bp_pe_diastolic_1+anthro_bp_pe_diastolic_2+anthro_bp_pe_diastolic_3)/3,
+                nsrr_bp_systolic=(anthro_bp_pe_systolic_1+anthro_bp_pe_systolic_2+anthro_bp_pe_systolic_3)/3,
+                nsrr_race=dplyr::case_when(
+                  subinfo_race==1 ~ "american indian or alaska native",
+                  subinfo_race==2 ~ "asian",
+                  subinfo_race==3 ~ "native hawaiian or other pacific islander",
+                  subinfo_race==4 ~ "black or african american",
+                  subinfo_race==5 ~ "white",
+                  subinfo_race==6 ~ "other",
+                  TRUE ~ "not reported"
+                ),
+                nsrr_sex=dplyr::case_when(
+                  subinfo_sex==1 ~ "male",
+                  subinfo_sex==2 ~ "female",
+                  TRUE ~ "not reported"
+                ),
+                nsrr_ethnicity=dplyr::case_when(
+                  subinfo_ethnicity==1 ~ "hispanic or latino",
+                  subinfo_ethnicity==2 ~ "not hispanic or latino",
+                  TRUE ~ "not reported"
+                ),
+                nsrr_ever_smoker=dplyr::case_when(
+                  hq_ever_smoked_cigarettes==2 ~ "no",
+                  hq_ever_smoked_cigarettes==1 ~ "yes",
+                  TRUE ~ "not reported"
+                ))%>%
+  select(nsrrid,timepoint, nsrr_age,nsrr_race,nsrr_ethnicity,nsrr_sex,nsrr_bmi,nsrr_bp_diastolic,nsrr_bp_systolic,nsrr_ever_smoker)
+
+psg_variables <- final_data %>%
+  select(ahi, cai, oai, avg_pulse, avg_spo2, min_spo2, odi, spo2_90, spo2_88, spo2_85,slp_efficiency, slp_latency, total_slp_time, arousal_index, n1_percent,n2_percent,n3_percent, rem_percent, psg_overall_study_quality, psg_score_sleep_wake_only) %>%
+  rename(nsrr_ahi_hp3u=ahi,
+         nsrr_cai=cai,
+         nsrr_oai=oai,
+         nsrr_avglvlhr=avg_pulse,
+         nsrr_avglvlsa=avg_spo2,
+         nsrr_minlvlsa=min_spo2,
+         nsrr_odi_dsge3=odi,
+         nsrr_pctdursp_salt90=spo2_90,
+         nsrr_pctdursp_sale88=spo2_88,
+         nsrr_pctdursp_salt85=spo2_85,
+         nsrr_ttleffsp_f1=slp_efficiency,
+         nsrr_ttllatsp_f1=slp_latency,
+         nsrr_tst_f1=total_slp_time,
+         nsrr_phrnumar=arousal_index,
+         nsrr_pctdursp_s1=n1_percent,
+         nsrr_pctdursp_s2=n2_percent,
+         nsrr_pctdursp_s3=n3_percent,
+         nsrr_pctdursp_sr=rem_percent,
+         nsrr_flag_quality=psg_overall_study_quality,
+         nsrr_flag_spsw = psg_score_sleep_wake_only,
+         )%>%
+  mutate(nsrr_flag_spsw=dplyr::case_when(
+    nsrr_flag_spsw==0 ~ "full scoring",
+    nsrr_flag_spsw==1 ~ "sleep/wake only",
+    TRUE ~ "unknown"
+  ))
+
+harmonized_data <- bind_cols(harmonized_data, psg_variables)
+
+write.csv(harmonized_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/0.1.0.pre/lofthf-harmonized-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
+
+```
 

@@ -1,0 +1,7 @@
+{
+  "id": "psg_csr_present",
+  "display_name": "PSG: Cheyne-Stokes Breathing present?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "analysis_duration",
+  "display_name": "PSG: Analysis Duration ",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

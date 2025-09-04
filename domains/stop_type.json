@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Stopped due to study closure",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Stopped due to CEC Event",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Stopped participation before study closure",
+    "description": ""
+  },
+  {
+    "value": ".",
+    "display_name": "other",
+    "description": ""
+  }
+]

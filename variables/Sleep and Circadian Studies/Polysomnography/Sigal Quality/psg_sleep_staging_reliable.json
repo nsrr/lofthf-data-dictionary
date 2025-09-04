@@ -1,0 +1,7 @@
+{
+  "id": "psg_sleep_staging_reliable",
+  "display_name": "PSG: Was the sleep staging reliable?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

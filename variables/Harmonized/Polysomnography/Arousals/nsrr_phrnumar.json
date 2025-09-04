@@ -1,0 +1,10 @@
+{
+  "id": "nsrr_phrnumar",
+  "display_name": "Arousal Index: Number of arousals per hour of sleep from polysomnography",
+  "description": "Harmonized by the NSRR team. Source: :arousal_index:",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumar_f1t2"
+  ]
+}

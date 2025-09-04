@@ -1,0 +1,10 @@
+{
+  "id": "nsrr_avglvlhr",
+  "display_name": "Average heart rate",
+  "description": "Harmonized by the NSRR team. Source: :avg_pulse:",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_f1t2"
+  ]
+}

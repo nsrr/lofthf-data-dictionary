@@ -1,0 +1,7 @@
+{
+  "id": "psg_csr_more_than_25_percent",
+  "display_name": "PSG: Cheyne-Stokes more than 25% of TST",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

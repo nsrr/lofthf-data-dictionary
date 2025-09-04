@@ -1,0 +1,7 @@
+{
+  "id": "psg_prev_history_afib",
+  "display_name": "PSG: Does the participant have a previous history of atrial fibrillation?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof"
+}

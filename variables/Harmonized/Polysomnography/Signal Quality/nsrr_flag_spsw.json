@@ -1,0 +1,7 @@
+{
+  "id": "nsrr_flag_spsw",
+  "display_name": "Sleep/Wake only",
+  "description": "Harmonized by the NSRR team. Source: :psg_score_sleep_wake_only: May need to recode values",
+  "type": "choices",
+  "domain": "nsrr_flag_spsw"
+}

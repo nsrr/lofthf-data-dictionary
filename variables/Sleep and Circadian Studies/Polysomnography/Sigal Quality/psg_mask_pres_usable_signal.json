@@ -1,0 +1,6 @@
+{
+  "id": "psg_mask_pres_usable_signal",
+  "display_name": "PSG: Mask Pressure Usable Signal",
+  "description": "",
+  "type": "integer"
+}

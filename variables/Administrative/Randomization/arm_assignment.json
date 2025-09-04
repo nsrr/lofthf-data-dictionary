@@ -2,5 +2,6 @@
   "id": "arm_assignment",
   "display_name": "Subinfo: Randomzation Assignment",
   "description": "",
-  "type": "integer"
+  "type": "choices",
+  "domain": "arm"
 }
