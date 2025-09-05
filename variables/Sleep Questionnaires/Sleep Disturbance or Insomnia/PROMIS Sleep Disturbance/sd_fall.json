@@ -1,12 +1,12 @@
 {
-  "id": "promis_sd_satisfied_with_sleep",
-  "display_name": "PROMIS: I was satisfied with my sleep",
+  "id": "sd_fall",
+  "display_name": "PROMIS: I had difficulty falling asleep",
   "description": "Item from the PROMIS Sleep Disturbance instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/ loft/variables?search=promissd)",
   "type": "choices",
   "domain": "promis_not_at_all_to_very_muchf",
   "labels": [
     "promissd",
-    "promissd_02satisfied",
-    "sleep_satisfaction"
+    "promissd_04fallaslp",
+    "insomnia"
   ]
 }

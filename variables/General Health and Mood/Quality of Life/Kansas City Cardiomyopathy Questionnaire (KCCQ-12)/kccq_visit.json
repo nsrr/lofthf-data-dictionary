@@ -1,11 +1,11 @@
 {
-  "id": "kccq_hobbies",
-  "display_name": "Kansas City Cardiomyopathy Questionnaire (KCCQ): Limitation in hobbies, recreational activities",
+  "id": "kccq_visit",
+  "display_name": "Kansas City Cardiomyopathy Questionnaire (KCCQ): Limitation in visiting family or friends out of your home",
   "description": "Item from the Kansas City Cardiomyopathy Questionnaire (KCCQ) social interference domain. KCCQ is a 23-item, self-administered questionnaire designed to evaluate the health status of heart failure (HF) patients by quantifying physical limitations, symptoms (frequency, severity and recent change over time), social limitations, self-efficacy, and quality of life. [Green CP 2000 (PubMed ID: 10758967)](https://pubmed.ncbi.nlm.nih.gov/10758967/)<br><br>[Search for all KCCQ variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=kccq)",
   "type": "choices",
   "domain": "kccq_limited_activity_lifestyef",
   "labels": [
     "kccq",
-    "kccq_20hobbies"
+    "kccq_22visiting"
   ]
 }

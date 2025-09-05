@@ -1,12 +1,12 @@
 {
-  "id": "promis_sd_sleep_restless",
-  "display_name": "PROMIS: My sleep was restless",
+  "id": "sd_satis",
+  "display_name": "PROMIS: I was satisfied with my sleep",
   "description": "Item from the PROMIS Sleep Disturbance instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/ loft/variables?search=promissd)",
   "type": "choices",
   "domain": "promis_not_at_all_to_very_muchf",
   "labels": [
     "promissd",
-    "promissd_01restless",
-    "sleep_quality"
+    "promissd_02satisfied",
+    "sleep_satisfaction"
   ]
 }

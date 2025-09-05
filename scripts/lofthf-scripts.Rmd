@@ -62,6 +62,41 @@ final_data <- merge(final_data, subinfo,
 variables_to_remove <- c("eq_index", "i1", "u","subinfo_last_visit_completed","promis_sd_sum_m","promis_sri_sum_m")
 final_data <- final_data[, !names(final_data) %in% variables_to_remove]
 
+# rename long variable names
+rename_map <- c(
+  "promis_sri_sleepy_daytime" = "sri_sleepy",
+  "promis_sri_concentrating" = "sri_conc",
+  "promis_sri_alert_when_woke" = "sri_alert",
+  "promis_sri_irritable" = "sri_irrit",
+  "promis_sri_tired" = "sri_tired",
+  "promis_sri_problems_poor_sleep" = "sri_prob",
+  "promis_sri_trouble_staying_awake" = "sri_awake",
+  "promis_sri_getting_things_done" = "sri_done",
+  "promis_sd_satisfied_with_sleep" = "sd_satis",
+  "promis_sd_sleep_refreshingr" = "sd_refr_r",
+  "promis_sd_diff_falling_asleep" = "sd_fall",
+  "promis_sd_sleep_refreshing" = "sd_refr",
+  "promis_sd_satisfied_with_sleepr" = "sd_satis_r",
+  "promis_sd_sleep_restless" = "sd_restl",
+  "subinfo_how_info_obtained_2" = "info_obt2",
+  "subinfo_how_info_obtained_1" = "info_obt1",
+  "eq5d_anxiety_depression" = "eq5d_anx",
+  "kccq_swelling_bothersome" = "kccq_swl1",
+  "kccq_swelling_when_waking" = "kccq_swl2",
+  "kccq_visiting_family_friends" = "kccq_visit",
+  "kccq_intimate_relationships" = "kccq_intim",
+  "kccq_hobbies" = "kccq_hobby",
+  "kccq_household_chores" = "kccq_chore",
+  "kccq_feeling_living_hf_for_life" = "kccq_life"
+)
+
+
+for(old_name in names(rename_map)) {
+  if(old_name %in% names(final_data)) {
+    names(final_data)[names(final_data) == old_name] <- rename_map[old_name]
+  }
+}
+
 write.csv(final_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/0.1.0.pre/lofthf-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
 ```
 

@@ -1,7 +1,7 @@
 {
   "id": "eq5d_vas_health_today",
   "display_name": "EuroQol- 5 Dimension (EQ-5D): Visual analogue scale (VAS), \"Your Health Today\" (range: 0-100)",
-  "description": "Item from EuroQol- 5 Dimension (EQ-5D), a five-dimension descriptive system to assess generic-quality of life. Higher scores indicate better health. A 10-point change is often considered clinically meaningful.Ê[EuroQol Research Foundation. EQ-5D-3L User Guide, 2018.](https://euroqol.org/publications/user-guides)<br><br>[Search for all EQ-5D variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=eq5d)",
+  "description": "Item from EuroQol- 5 Dimension (EQ-5D), a five-dimension descriptive system to assess generic-quality of life. Higher scores indicate better health. A 10-point change is often considered clinically meaningful.ÃÂ[EuroQol Research Foundation. EQ-5D-3L User Guide, 2018.](https://euroqol.org/publications/user-guides)<br><br>[Search for all EQ-5D variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=eq5d)",
   "type": "integer",
   "labels": [
     "eq5d",
