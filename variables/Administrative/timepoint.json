@@ -6,5 +6,6 @@
   "domain": "timepointf",
   "labels": [
     "loft_anthropometry_form"
-  ]
+  ],
+  "commonly_used": true
 }

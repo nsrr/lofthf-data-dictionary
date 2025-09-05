@@ -4,6 +4,7 @@ output: html_notebook
 ---
 ```{r}
 setwd("/VOLUMES/BWH-SLEEPEPI-LOFT/Data/SAS/_FINAL/30-Datasets")
+
 # rbind the dataset with same prefixes: 
 prefixes <- c("anthropometry", "eq5d", "hq", "kccq", "phq8", "promis")
 timepoints <- c("base", "6mo", "12mo")
@@ -36,8 +37,10 @@ for(i in 2:length(combined_data)) {
 psg <- read.csv("/Volumes/BWH-SLEEPEPI-LOFT/Data/SAS/_FINAL/30-Datasets/psg/loftpsg_nsrr.csv", stringsAsFactors = FALSE)
 subinfo <- read.csv("subinfo.csv", stringsAsFactors = FALSE)
 
-# add timepoint values
-psg$timepoint <- 99
+# screening (psg_study_type = 1) and 12-month visit (psg_study_type = 2)
+psg$timepoint <- ifelse(psg$psg_study_type == 1, 0, 
+                       ifelse(psg$psg_study_type == 2, 3, NA))
+
 subinfo$timepoint <- 0
 
 site_lookup <- unique(subinfo[, c("subject", "site")])

@@ -2,5 +2,6 @@
   "id": "subject",
   "display_name": "LOFT-HF Subject Identifier",
   "description": "",
-  "type": "identifier"
+  "type": "identifier",
+  "commonly_used": true
 }
