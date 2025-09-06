@@ -3,5 +3,5 @@
   "display_name": "Subinfo: Method of obtaining participant's demographic information (Chart Abstraction)",
   "description": "",
   "type": "choices",
-  "domain": "chart_abstraction_oral_intervif"
+  "domain": "chart"
 }

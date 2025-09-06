@@ -3,5 +3,5 @@
   "display_name": "PROMIS: I felt alert when I woke up",
   "description": "Item from the PROMIS Sleep Related Impairment instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=promissri)",
   "type": "choices",
-  "domain": "promis_not_at_all_to_very_muchf"
+  "domain": "promis_not_much"
 }
