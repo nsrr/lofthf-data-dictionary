@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_myocarditis_pericarditis",
-  "display_name": "Subinfo: Participant had acute myocarditis/pericarditis or other caused of potentially reversible cardiomyopathy (e.g., post-partum cardiomyopathy, tachycardia-induced cardiomyopathy), within the previous 6 months?",
-  "description": "",
-  "type": "choices",
-  "domain": "yesnof"
-}

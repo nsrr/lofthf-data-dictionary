@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_strat_hospitalized_amnt",
+  "display_name": "Subinfo: If yes to :screen_strat_hospitalized:, number of  times was the participant hospitalized for HF?",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "integer",
+  "units": "counts",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

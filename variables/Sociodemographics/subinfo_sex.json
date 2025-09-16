@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_sex",
+  "display_name": "Subinfo: Sex",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "sexf",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

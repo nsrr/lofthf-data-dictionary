@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_ethnicity",
+  "display_name": "Subinfo: Ethnicity",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "ethnicityf",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

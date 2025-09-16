@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_ethnicity",
-  "display_name": "Subinfo: Ethnicity",
-  "description": "",
-  "type": "choices",
-  "domain": "ethnicityf"
-}

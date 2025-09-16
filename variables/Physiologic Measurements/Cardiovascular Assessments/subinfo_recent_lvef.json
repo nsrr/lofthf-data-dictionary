@@ -1,0 +1,9 @@
+{
+  "id": "subinfo_recent_lvef",
+  "display_name": "Subinfo: Most recent left ventricular ejection fraction",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "numeric",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_strat_elevated_bnp",
+  "display_name": "Subinfo: Participant have an elevated outpatient BNP (>= 150 pg/ml) or NTproBNP (>=600 pg/ml)?",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "kccq_nmissphyslimit",
+  "display_name": "Kansas City Cardiomyopathy Questionnaire (KCCQ): Number of missing Physical Limitation items",
+  "description": "The Kansas City Cardiomyopathy Questionnaire (KCCQ) is a 23-item, self-administered questionnaire designed to evaluate the health status of heart failure (HF) patients by quantifying physical limitations, symptoms (frequency, severity and recent change over time), social limitations, self-efficacy, and quality of life. [Green CP 2000 (PubMed ID: 10758967)](https://pubmed.ncbi.nlm.nih.gov/10758967/)<br><br>[Search for all KCCQ variables within this dataset](https://sleepdata.org/loftdatasets/lofthf/variables?search=kccq)",
+  "type": "integer",
+  "units": "counts",
+  "labels": [
+    "kccq"
+  ]
+}

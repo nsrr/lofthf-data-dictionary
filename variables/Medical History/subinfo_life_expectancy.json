@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_life_expectancy",
+  "display_name": "Subinfo: Participant's life expectancy < 1 year for diseases unrelated to chronic HF",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

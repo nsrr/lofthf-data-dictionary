@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_nyha_at_enrollment",
+  "display_name": "Subinfo: Participant's New York Heart Association Functional Classification (NYHA) at time of enrollment",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "nyha_classificationf",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

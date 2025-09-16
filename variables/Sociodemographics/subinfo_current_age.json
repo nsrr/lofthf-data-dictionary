@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_current_age",
+  "display_name": "Subinfo: Current Age",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "integer",
+  "units": "years",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

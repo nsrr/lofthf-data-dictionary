@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_gdmt",
+  "display_name": "Subinfo: Participant is on treatment with stable, optimized GDMT",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

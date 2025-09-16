@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_severe_pulmonary_disease",
+  "display_name": "Subinfo: Participant has severe pulmonary disease requiring continuous home oxygen therapy or the continuous or frequent intermittent use of oral steroids or documented severe COPD with FEV1 < 50%",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

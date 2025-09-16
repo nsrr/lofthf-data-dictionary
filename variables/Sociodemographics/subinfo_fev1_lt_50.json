@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_fev1_lt_50",
+  "display_name": "Subinfo: Participant has significant COPD with Forced Expiratory Volume within one second (FEV1) < 50% (European Respiratory Society criteria) within the previous 4 weeks",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "yesnonaf",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

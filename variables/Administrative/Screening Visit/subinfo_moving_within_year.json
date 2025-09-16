@@ -1,7 +1,10 @@
 {
   "id": "subinfo_moving_within_year",
   "display_name": "Subinfo: Participant plans on moving out of the area within the year",
-  "description": "",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
   "type": "choices",
-  "domain": "yesnof"
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
 }

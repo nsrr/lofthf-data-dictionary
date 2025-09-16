@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_severe_pulmonary_disease",
-  "display_name": "Subinfo: Participant has severe pulmonary disease requiring continuous home oxygen therapy or the continuous or frequent intermittent use of oral steroids or documented severe COPD with FEV1 < 50%",
-  "description": "",
-  "type": "choices",
-  "domain": "yesnof"
-}

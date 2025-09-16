@@ -1,6 +1,6 @@
 {
   "id": "spo2_88",
-  "display_name": "Percent of total sleep duration with oxygen saturation ÃÂÃÂÃÂÃÂ² 88% from type II polysomnography",
+  "display_name": "Percent of total sleep duration with oxygen saturation ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ² 88% from type II polysomnography",
   "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep, conventionally called total sleep time.",
   "type": "numeric",
   "units": "percent (%)",

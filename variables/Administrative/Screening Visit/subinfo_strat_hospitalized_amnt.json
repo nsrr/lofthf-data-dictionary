@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_strat_hospitalized_amnt",
-  "display_name": "Subinfo: If yes to :screen_strat_hospitalized:, number of  times was the participant hospitalized for HF?",
-  "description": "",
-  "type": "integer",
-  "units": "counts"
-}

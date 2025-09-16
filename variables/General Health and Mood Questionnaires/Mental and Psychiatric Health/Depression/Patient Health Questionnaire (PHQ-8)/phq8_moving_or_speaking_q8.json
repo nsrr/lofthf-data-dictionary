@@ -1,7 +1,7 @@
 {
   "id": "phq8_moving_or_speaking_q8",
   "display_name": "Patient Health Questionnaire (PHQ)-8: 8. Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual",
-  "description": "Item from Patient Health Questionnaire 8-item. [Kroenke K et al. 2001 (PubMED ID: 11556941)](10.1046/j.1525-1497.2001.016009606.x)<br><br>[Search for all PHQ-8 variables within this dataset]((https://sleepdata.org/datasets/loft/variables?search=phq8))",
+  "description": "Item from Patient Health Questionnaire 8-item. [Kroenke K et al. 2001 (PubMED ID: 11556941)](10.1046/j.1525-1497.2001.016009606.x)<br><br>[Search for all PHQ-8 variables within this dataset]((https://sleepdata.org/loftdatasets/lofthf/variables?search=phq8))",
   "type": "choices",
   "domain": "phq8f",
   "labels": [

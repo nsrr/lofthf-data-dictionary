@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_spo2_lt_90_day",
-  "display_name": "Subinfo: Participant has an oxygen saturation < 90% at rest during the day",
-  "description": "",
-  "type": "choices",
-  "domain": "yesnof"
-}

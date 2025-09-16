@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_stage_d_hf",
-  "display_name": "Subinfo: Participant has end-stage (Stage D) HF requiring continuous outpatient intravenous (IV) inotropic therapy, placement of ventricular assist device, listing for cardiac transplantation, or end-of-life (e.g. hospice care)",
-  "description": "",
-  "type": "choices",
-  "domain": "yesnof"
-}

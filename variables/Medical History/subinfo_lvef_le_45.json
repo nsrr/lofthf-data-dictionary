@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_lvef_le_45",
+  "display_name": "Subinfo: History of chronic, stable HFrEF with at least one documented left ventricular ejection fraction (LVEF) measurement <= 50% when on GDMT",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

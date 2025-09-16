@@ -1,6 +1,9 @@
 {
   "id": "subinfo_strat_composite",
   "display_name": "Subinfo: Stratification Composite (DCC USE ONLY)",
-  "description": "",
-  "type": "integer"
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "integer",
+  "labels": [
+    "loft_screening_form"
+  ]
 }

@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_gdmt",
-  "display_name": "Subinfo: Participant is on treatment with stable, optimized GDMT",
-  "description": "",
-  "type": "choices",
-  "domain": "yesnof"
-}

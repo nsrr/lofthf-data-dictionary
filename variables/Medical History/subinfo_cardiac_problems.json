@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_cardiac_problems",
+  "display_name": "Subinfo: Participant had cardiac surgery, percutaneous coronary intervention, myocardial infarction or unstable angina within the previous 3 months",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_pap_use",
-  "display_name": "Subinfo: Participant is on current positive airway pressure use or has a diagnosis of OSA",
-  "description": "",
-  "type": "choices",
-  "domain": "yesnof"
-}

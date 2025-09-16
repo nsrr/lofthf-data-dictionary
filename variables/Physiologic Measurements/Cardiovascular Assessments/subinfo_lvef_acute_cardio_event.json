@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_lvef_acute_cardio_event",
+  "display_name": "Subinfo: Left ventricular ejection fraction measured during an admission for an acute cardiovascular event",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

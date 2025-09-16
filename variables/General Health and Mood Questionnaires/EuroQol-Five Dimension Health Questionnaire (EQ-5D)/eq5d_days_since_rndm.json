@@ -1,0 +1,10 @@
+{
+  "id": "eq5d_days_since_rndm",
+  "display_name": "EuroQol- 5 Dimension (EQ-5D): Days from Randomization to EQ-5D",
+  "description": "Item from EuroQol- 5 Dimension (EQ-5D), a five-dimension descriptive system to assess generic-quality of life.<br><br>[Search for all EQ-5D variables within this dataset](https://sleepdata.org/loftdatasets/lofthf/variables?search=eq5d)",
+  "type": "integer",
+  "units": "days from index date",
+  "labels": [
+    "eq5d"
+  ]
+}

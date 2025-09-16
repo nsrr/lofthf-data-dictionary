@@ -1,0 +1,10 @@
+{
+  "id": "subinfo_lvef_type_of_exam",
+  "display_name": "Subinfo: Type of exam left ventricular ejection fraction was obtained from",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "choices",
+  "domain": "lvef_exam_typef",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

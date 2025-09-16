@@ -1,0 +1,11 @@
+{
+  "id": "eq5d_selfcare",
+  "display_name": "EuroQol- 5 Dimension (EQ-5D): 2. Self-Care",
+  "description": "Item from EuroQol- 5 Dimension (EQ-5D), a five-dimension descriptive system to assess generic-quality of life. Scores of 2 and above suggest need for caregiver support. [EuroQol Research Foundation. EQ-5D-3L User Guide, 2018.](https://euroqol.org/publications/user-guides)<br><br>[Search for all EQ-5D variables within this dataset](https://sleepdata.org/loftdatasets/lofthf/variables?search=eq5d)",
+  "type": "choices",
+  "domain": "eq5d_selfcare_choicesf",
+  "labels": [
+    "eq5d",
+    "eq5d_02care"
+  ]
+}

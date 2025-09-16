@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_strat_hospitalized",
-  "display_name": "Subinfo: Participant hospitalized for HF in the last 12 months",
-  "description": "",
-  "type": "choices",
-  "domain": "yesnof"
-}

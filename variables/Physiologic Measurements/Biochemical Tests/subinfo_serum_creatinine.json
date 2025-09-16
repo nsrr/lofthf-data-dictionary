@@ -1,0 +1,9 @@
+{
+  "id": "subinfo_serum_creatinine",
+  "display_name": "Subinfo: Participant's most recent serum creatinine level",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "numeric",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

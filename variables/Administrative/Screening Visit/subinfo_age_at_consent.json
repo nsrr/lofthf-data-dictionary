@@ -1,7 +1,10 @@
 {
   "id": "subinfo_age_at_consent",
   "display_name": "Subinfo: Participant aged 21 years or older at the date of consent",
-  "description": "",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
   "type": "choices",
-  "domain": "yesnof"
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
 }

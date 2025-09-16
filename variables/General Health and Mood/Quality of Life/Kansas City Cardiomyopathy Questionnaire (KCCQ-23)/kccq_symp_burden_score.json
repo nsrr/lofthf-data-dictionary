@@ -1,9 +1,0 @@
-{
-  "id": "kccq_symp_burden_score",
-  "display_name": "Kansas City Cardiomyopathy Questionnaire (KCCQ): Symptom Burden Score",
-  "description": "Mean of all items from the Kansas City Cardiomyopathy Questionnaire (KCCQ) symptom burden subdomain.[Green CP 2000 (PubMed ID: 10758967)](https://pubmed.ncbi.nlm.nih.gov/10758967/)<br><br>[Search for all KCCQ variables within this dataset](https://sleepdata.org/datasets/loft/variables?search=kccq)",
-  "type": "numeric",
-  "labels": [
-    "kccq"
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "id": "subinfo_strat_bnp_value",
+  "display_name": "Subinfo: Participant's B-Type Natriuretic Peptide (BNP) Test",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "integer",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

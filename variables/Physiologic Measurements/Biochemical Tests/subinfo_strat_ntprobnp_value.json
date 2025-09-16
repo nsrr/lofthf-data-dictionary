@@ -1,0 +1,9 @@
+{
+  "id": "subinfo_strat_ntprobnp_value",
+  "display_name": "Subinfo: Participant's N-terminal (NT)-pro hormone BNP (NT-proBNP) ",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
+  "type": "integer",
+  "labels": [
+    "loft_screening_form"
+  ]
+}

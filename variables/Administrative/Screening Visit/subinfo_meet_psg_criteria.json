@@ -1,7 +1,10 @@
 {
   "id": "subinfo_meet_psg_criteria",
   "display_name": "Subinfo: Participant met all eligibility criteria from the overnight polysomnogram",
-  "description": "",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
   "type": "choices",
-  "domain": "yesnof"
+  "domain": "yesnof",
+  "labels": [
+    "loft_screening_form"
+  ]
 }

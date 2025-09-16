@@ -1,7 +1,10 @@
 {
   "id": "subinfo_referral_source",
   "display_name": "Subinfo: Primary referral source",
-  "description": "",
+  "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
   "type": "choices",
-  "domain": "referral_sourcef"
+  "domain": "referral_sourcef",
+  "labels": [
+    "loft_screening_form"
+  ]
 }

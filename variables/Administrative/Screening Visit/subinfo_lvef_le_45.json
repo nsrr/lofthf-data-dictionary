@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_lvef_le_45",
-  "display_name": "Subinfo: History of chronic, stable HFrEF with at least one documented left ventricular ejection fraction (LVEF) measurement <= 50% when on GDMT",
-  "description": "",
-  "type": "choices",
-  "domain": "yesnof"
-}

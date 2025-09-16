@@ -1,7 +1,0 @@
-{
-  "id": "subinfo_nyha_at_enrollment",
-  "display_name": "Subinfo: Participant's NYHA at time of enrollment",
-  "description": "",
-  "type": "choices",
-  "domain": "nyha_classificationf"
-}
