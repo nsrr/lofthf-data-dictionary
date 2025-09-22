@@ -1,6 +1,6 @@
 {
   "id": "analysis_stop_time",
-  "display_name": "PSQ Quality: Analysis Stop Time",
+  "display_name": "PSG Quality: Analysis Stop Time",
   "description": "",
   "type": "time",
   "units": "H:mm:ss"

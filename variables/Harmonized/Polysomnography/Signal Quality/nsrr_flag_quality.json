@@ -1,7 +1,7 @@
 {
   "id": "nsrr_flag_quality",
   "display_name": "Overall Signal/Study Quality",
-  "description": "Harmonized by the NSRR team. Source: :psg_overall_study_quality: May need to recode values",
+  "description": "Harmonized by the NSRR team. Source: :psg_overall_study_quality: ",
   "type": "choices",
   "domain": "psgqs_overall_study_qualityf"
 }
