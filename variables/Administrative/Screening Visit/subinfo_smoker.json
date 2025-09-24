@@ -1,6 +1,6 @@
 {
   "id": "subinfo_smoker",
-  "display_name": "",
+  "display_name": "Does the participant or their bed partner currently smoke in the bedroom?",
   "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
   "type": "choices",
   "domain": "yesnof",
