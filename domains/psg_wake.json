@@ -1,0 +1,12 @@
+[
+  {
+    "value": "1",
+    "display_name": "sleep/wake only",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "full scoring",
+    "description": ""
+  }
+]
