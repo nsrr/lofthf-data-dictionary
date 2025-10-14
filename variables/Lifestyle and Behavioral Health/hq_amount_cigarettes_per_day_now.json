@@ -5,6 +5,7 @@
   "type": "integer",
   "units": "counts",
   "labels": [
-    "loft_health_questionnaires_form"
+    "loft_health_questionnaires_form",
+    "smoking"
   ]
 }

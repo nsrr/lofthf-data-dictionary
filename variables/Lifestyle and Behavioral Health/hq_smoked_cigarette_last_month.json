@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "loft_health_questionnaires_form"
+    "loft_health_questionnaires_form",
+    "smoking"
   ]
 }

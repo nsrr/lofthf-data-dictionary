@@ -1,7 +1,7 @@
 {
   "id": "phq8_trouble_concentrating_q7",
   "display_name": "Patient Health Questionnaire (PHQ)-8: 7. Trouble concentrating on things, such as reading the newspaper or watching television",
-  "description": "Item from Patient Health Questionnaire 8-item. [Kroenke K et al. 2001 (PubMED ID: 11556941)](10.1046/j.1525-1497.2001.016009606.x)<br><br>[Search for all PHQ-8 variables within this dataset](https://sleepdata.org/loftdatasets/lofthf/variables?search=phq8)",
+  "description": "Item from Patient Health Questionnaire 8-item. [Kroenke K et al. 2001 (PubMED ID: 11556941)](10.1046/j.1525-1497.2001.016009606.x)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=7JfontMIyX)<br><br>[Search for all PHQ-8 variables within this dataset](https://sleepdata.org/loftdatasets/lofthf/variables?search=phq8)",
   "type": "choices",
   "domain": "phq8f",
   "labels": [

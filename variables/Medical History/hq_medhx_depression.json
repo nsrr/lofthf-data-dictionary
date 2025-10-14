@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "yesnodkf",
   "labels": [
-    "loft_health_questionnaires_form"
+    "loft_health_questionnaires_form",
+    "depression"
   ]
 }
