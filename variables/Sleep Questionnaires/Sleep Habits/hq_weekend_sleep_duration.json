@@ -6,6 +6,7 @@
   "units": "hours (hr)",
   "labels": [
     "loft_health_questionnaires_form",
-    "sleep_duration"
+    "sleep_duration",
+    "SleepHealth_duration"
   ]
 }

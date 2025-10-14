@@ -6,6 +6,7 @@
   "domain": "rarely_always_dkf",
   "labels": [
     "loft_health_questionnaires_form",
-    "snore"
+    "snore",
+    "SleepHealth_sleep_apnea"
   ]
 }

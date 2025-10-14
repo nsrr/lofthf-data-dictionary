@@ -6,6 +6,7 @@
   "units": "H:mm:ss",
   "labels": [
     "sleep_timing",
-    "loft_health_questionnaires_form"
+    "loft_health_questionnaires_form",
+    "SleepHealth_timing"
   ]
 }

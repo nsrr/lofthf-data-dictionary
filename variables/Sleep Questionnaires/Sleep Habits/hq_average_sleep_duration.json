@@ -7,6 +7,8 @@
   "calculation": "(5/7)*weekday_sleep_duration + (2/7)*weekend_sleep_duration",
   "labels": [
     "loft_health_questionnaires_form",
-    "sleep_duration"
+    "sleep_duration",
+    "",
+    "SleepHealth_duration"
   ]
 }
