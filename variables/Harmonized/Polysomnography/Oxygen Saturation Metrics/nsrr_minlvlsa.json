@@ -6,5 +6,6 @@
   "units": "percent (%)",
   "labels": [
     "minlvlsa_sp_f1t2"
-  ]
+  ],
+  "commonly_used": true
 }
