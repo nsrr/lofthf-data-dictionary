@@ -3,6 +3,8 @@ title: "lofthf-scripts"
 output: html_notebook
 ---
 ```{r}
+library(tidyr)
+library(dplyr)
 setwd("/VOLUMES/BWH-SLEEPEPI-LOFT/Data/SAS/_FINAL/30-Datasets")
 
 # rbind the dataset with same prefixes: 
