@@ -1,7 +1,7 @@
 {
   "id": "sd_fall",
   "display_name": "PROMIS: I had difficulty falling asleep",
-  "description": "Item from the PROMIS Sleep Disturbance instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br>External semantic reference:[CDE](https://cde.nlm.nih.gov/deView?tinyId=my8zOWW2dg)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/ loft/variables?search=promissd)",
+  "description": "Item from the PROMIS Sleep Disturbance instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br>External semantic reference:[CDE](https://cde.nlm.nih.gov/deView?tinyId=mkV9Wu__3Ol)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/ loft/variables?search=promissd)",
   "type": "choices",
   "domain": "promis_not_much",
   "labels": [
