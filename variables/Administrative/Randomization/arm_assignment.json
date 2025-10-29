@@ -1,7 +1,8 @@
 {
   "id": "arm_assignment",
-  "display_name": "Subinfo: Randomzation Assignment",
+  "display_name": "Subinfo: Randomization Assignment",
   "description": "",
   "type": "choices",
-  "domain": "arm"
+  "domain": "arm",
+  "commonly_used": true
 }

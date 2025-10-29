@@ -99,6 +99,11 @@ for(old_name in names(rename_map)) {
   }
 }
 
+# Impute missing site values from first 2 digits of subject
+final_data$site <- ifelse(is.na(final_data$site) | final_data$site == "", 
+                          substr(final_data$subject, 1, 2), 
+                          final_data$site)
+
 write.csv(final_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/0.1.0.pre/lofthf-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
 ```
 
