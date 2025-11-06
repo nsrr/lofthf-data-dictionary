@@ -18,5 +18,10 @@
     "value": "3",
     "display_name": "12-Month Visit",
     "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Follow-up On Treatment",
+    "description": ""
   }
 ]

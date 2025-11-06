@@ -41,7 +41,7 @@ subinfo <- read.csv("subinfo.csv", stringsAsFactors = FALSE)
 
 # screening (psg_study_type = 1) and 12-month visit (psg_study_type = 2)
 psg$timepoint <- ifelse(psg$psg_study_type == 1, 0, 
-                       ifelse(psg$psg_study_type == 2, 3, NA))
+                       ifelse(psg$psg_study_type == 2, 4, NA))
 
 subinfo$timepoint <- 0
 
