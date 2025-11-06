@@ -1,12 +1,13 @@
 {
-  "id": "sd_refr_r",
-  "display_name": "PROMIS: My sleep was refreshing (Reverse-coded)",
+  "id": "promis_sd_satis_r",
+  "display_name": "PROMIS: I was satisfied with my sleep (Reverse-coded)",
   "description": "Item from the PROMIS Sleep Disturbance instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/ loft/variables?search=promissd)",
   "type": "choices",
   "domain": "promis_not_muchr",
   "labels": [
     "promissd",
-    "promissd_03refresh",
-    "sleep_quality"
+    "promissd_02satisfied",
+    "sleep_satisfaction",
+    "SleepHealth_satisfaction"
   ]
 }
