@@ -6,5 +6,6 @@
   "units": "percent (%)",
   "labels": [
     "pctdursp_sale90_f1t2"
-  ]
+  ],
+  "commonly_used": true
 }
