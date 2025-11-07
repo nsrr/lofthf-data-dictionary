@@ -1,6 +1,6 @@
 {
   "id": "promis_sri_sum",
   "display_name": "PROMIS: Sleep-related impairment 8a sum of 8tems (range: 8-40)",
-  "description": "Summary score for the PROMIS Sleep-Related Impairment instrument. Each item ranges from 1 to 5. The raw score is the sum of all 8 items. Higher score indicates more severe sleep related impairment.[Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/loftdatasets/lofthf/variables?search=promissri)",
+  "description": "Summary score for the PROMIS Sleep-Related Impairment 8a instrument. Each item ranges from 1 to 5. The raw score is the sum of all 8 items. Higher score indicates more severe sleep related impairment.[Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/loftdatasets/lofthf/variables?search=promissri)",
   "type": "integer"
 }

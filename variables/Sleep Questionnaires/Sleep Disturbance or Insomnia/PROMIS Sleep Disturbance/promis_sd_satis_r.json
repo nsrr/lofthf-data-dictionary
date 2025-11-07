@@ -1,7 +1,7 @@
 {
   "id": "promis_sd_satis_r",
   "display_name": "PROMIS: I was satisfied with my sleep (Reverse-coded)",
-  "description": "Item from the PROMIS Sleep Disturbance instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/ loft/variables?search=promissd)",
+  "description": "Item from the PROMIS Sleep Disturbance 8b instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/datasets/ loft/variables?search=promissd)",
   "type": "choices",
   "domain": "promis_not_muchr",
   "labels": [
