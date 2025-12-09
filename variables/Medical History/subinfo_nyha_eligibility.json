@@ -1,6 +1,6 @@
 {
   "id": "subinfo_nyha_eligibility",
-  "display_name": "Participant has NYHA Class III/IV, or Class II with recent HF hospitalization (<=24months), ED visit with IV diuretic for HF exacerbation (<=12months), or elevated BMI-corrected BNP (â¥300 pg/ml) or BMI-corrected NT-proBNP (â¥1500 pg/ml).",
+  "display_name": "Participant has NYHA Class III/IV, or Class II with recent HF hospitalization (<=24months), ED visit with IV diuretic for HF exacerbation (<=12months), or elevated BMI-corrected BNP (Ã¢ÂÂ¥300 pg/ml) or BMI-corrected NT-proBNP (Ã¢ÂÂ¥1500 pg/ml).",
   "description": "[Search for all variables from the screening visit in this dataset](https://sleepdata.org/datasets/lofthf/variables?search=loft_screening_form)",
   "type": "choices",
   "domain": "yesnof",

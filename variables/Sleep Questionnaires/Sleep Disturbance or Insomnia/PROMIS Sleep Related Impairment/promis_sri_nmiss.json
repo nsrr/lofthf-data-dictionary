@@ -3,5 +3,8 @@
   "display_name": "PROMIS: Number of missing items among 8 components",
   "description": "PROMIS Sleep Related Impairment 8a instrument. [Yu L et al, 2012 (PMID: 22250775)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3261577/)<br><br> [Search for all PROMIS SRI variables within this dataset](https://sleepdata.org/loftdatasets/lofthf/variables?search=promissri)",
   "type": "integer",
-  "units": "counts"
+  "units": "counts",
+  "labels": [
+    "promissri"
+  ]
 }
