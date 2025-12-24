@@ -1,0 +1,7 @@
+{
+  "id": "nsrr_file_prefix",
+  "display_name": "NSRR file prefix",
+  "description": "Prefix of associated signal and annotation files (if available) for specific subject and timepoint",
+  "type": "text",
+  "commonly_used": true
+}

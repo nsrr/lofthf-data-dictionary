@@ -1,8 +1,5 @@
----
-title: "lofthf-scripts"
-output: html_notebook
----
-```{r}
+ver="0.1.0"
+
 library(tidyr)
 library(dplyr)
 setwd("/VOLUMES/BWH-SLEEPEPI-LOFT/Data/SAS/_FINAL/30-Datasets")
@@ -31,8 +28,8 @@ names(combined_data) <- prefixes
 merged_data <- combined_data[[1]]
 for(i in 2:length(combined_data)) {
   merged_data <- merge(merged_data, combined_data[[i]], 
-                      by = c("subject", "timepoint", "site"),
-                      all = TRUE)
+                       by = c("subject", "timepoint", "site"),
+                       all = TRUE)
 }
 
 # add psg and subinfo datasets
@@ -41,7 +38,7 @@ subinfo <- read.csv("subinfo.csv", stringsAsFactors = FALSE)
 
 # screening (psg_study_type = 1) and 12-month visit (psg_study_type = 2)
 psg$timepoint <- ifelse(psg$psg_study_type == 1, 0, 
-                       ifelse(psg$psg_study_type == 2, 4, NA))
+                        ifelse(psg$psg_study_type == 2, 4, NA))
 
 subinfo$timepoint <- 0
 
@@ -52,13 +49,13 @@ psg <- merge(psg, site_lookup, by = "subject", all.x = TRUE)
 
 # merge PSG with merged_data 
 final_data <- merge(merged_data, psg,
-                   by = c("subject", "timepoint", "site"),
-                   all = TRUE)
+                    by = c("subject", "timepoint", "site"),
+                    all = TRUE)
 
 # add subinfo dataset
 final_data <- merge(final_data, subinfo,
-                   by = c("subject", "timepoint", "site"),
-                   all = TRUE)
+                    by = c("subject", "timepoint", "site"),
+                    all = TRUE)
 
 # a few variables doesn't have dd. remove them
 variables_to_remove <- c("eq_index", "i1", "u","subinfo_last_visit_completed","promis_sd_sum_m","promis_sri_sum_m")
@@ -104,14 +101,12 @@ final_data$site <- ifelse(is.na(final_data$site) | final_data$site == "",
                           substr(final_data$subject, 1, 2), 
                           final_data$site)
 
-write.csv(final_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/0.1.0.pre/lofthf-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
-```
 
-
+#######################
 # harmonized dataset
-```{r}
-harmonized_data<-final_data[,c("subject","timepoint", "subinfo_current_age", "anthro_bp_pe_bmi", "subinfo_ethnicity", "subinfo_race", 
-                             "subinfo_sex", "anthro_bp_pe_diastolic_1","anthro_bp_pe_diastolic_2","anthro_bp_pe_diastolic_3","anthro_bp_pe_systolic_1","anthro_bp_pe_systolic_2","anthro_bp_pe_systolic_3","hq_ever_smoked_cigarettes")]%>%
+#######################
+harmonized_data <- final_data[,c("subject","timepoint", "subinfo_current_age", "anthro_bp_pe_bmi", "subinfo_ethnicity", "subinfo_race", 
+                                 "subinfo_sex", "anthro_bp_pe_diastolic_1","anthro_bp_pe_diastolic_2","anthro_bp_pe_diastolic_3","anthro_bp_pe_systolic_1","anthro_bp_pe_systolic_2","anthro_bp_pe_systolic_3","hq_ever_smoked_cigarettes")]%>%
   dplyr::mutate(nsrrid=subject,
                 nsrr_age=subinfo_current_age,
                 nsrr_bmi=anthro_bp_pe_bmi,
@@ -165,16 +160,32 @@ psg_variables <- final_data %>%
          nsrr_pctdursp_sr=rem_percent,
          nsrr_flag_quality=psg_overall_study_quality,
          nsrr_flag_spsw = psg_score_sleep_wake_only,
-         )%>%
+  )%>%
   mutate(nsrr_flag_spsw=dplyr::case_when(
-    nsrr_flag_spsw==0 ~ "full scoring",
+    nsrr_flag_spsw==2 ~ "full scoring",
     nsrr_flag_spsw==1 ~ "sleep/wake only",
     TRUE ~ "unknown"
   ))
 
 harmonized_data <- bind_cols(harmonized_data, psg_variables)
 
-write.csv(harmonized_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/0.1.0.pre/lofthf-harmonized-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
+# add nsrr_file_prefix
+harmonized_data <- harmonized_data %>%
+  mutate(nsrr_file_prefix = ifelse(timepoint %in% c(0, 4), 
+                                   paste0("lofthf-", nsrrid, "-timepoint", timepoint),
+                                   NA_character_))
 
-```
+
+write.csv(harmonized_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/_releases/0.1.0.pre/lofthf-harmonized-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
+
+# add nsrrid and nsrr_file_prefix back to final_data
+final_data <- final_data %>%
+  mutate(nsrrid = subject,
+         nsrr_file_prefix = ifelse(timepoint %in% c(0, 4),
+                                   paste0("lofthf-", subject, "-timepoint", timepoint),
+                                   NA_character_)) %>%
+  select(-any_of(c("subinfo_referral_source_other", "psg_filename")))
+
+write.csv(final_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/_releases/0.1.0.pre/lofthf-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
+
 
