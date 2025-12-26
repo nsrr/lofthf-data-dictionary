@@ -176,7 +176,7 @@ harmonized_data <- harmonized_data %>%
                                    NA_character_))
 
 
-write.csv(harmonized_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/_releases/0.1.0.pre/lofthf-harmonized-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
+write.csv(harmonized_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/_releases/0.1.0/lofthf-harmonized-dataset.0.1.0.csv", row.names = FALSE, na = '')
 
 # add nsrrid and nsrr_file_prefix back to final_data
 final_data <- final_data %>%
@@ -186,6 +186,7 @@ final_data <- final_data %>%
                                    NA_character_)) %>%
   select(-any_of(c("subinfo_referral_source_other", "psg_filename")))
 
-write.csv(final_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/_releases/0.1.0.pre/lofthf-dataset.0.1.0.pre.csv", row.names = FALSE, na = '')
+write.csv(final_data, "/VOLUMES/BWH-SLEEPEPI-LOFT/nsrr-prep/_releases/0.1.0/lofthf-dataset.0.1.0.csv", row.names = FALSE, na = '')
+
 
 
